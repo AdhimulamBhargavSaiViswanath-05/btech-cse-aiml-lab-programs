@@ -9,6 +9,11 @@ III-II (6th Semester)
 ## Short Description
 This folder contains deep learning lab experiments covering model building, dataset handling, evaluation workflows, and experiment-wise records.
 
+## 📄 Lab Documentation
+The complete detailed documentation for all Deep Learning lab experiments is available here:
+
+👉 [View Full Documentation](https://docs.google.com/document/d/1K7GAAKxwIuBxmmviS5YJVcSvaLdd31eX6wcBCGZyhMA/edit?usp=sharing)
+
 ## List of Programs / Experiments
 - `Lab01.ipynb`
 - `Practice/` notebooks (`Lab02`, iterative practice variants)
