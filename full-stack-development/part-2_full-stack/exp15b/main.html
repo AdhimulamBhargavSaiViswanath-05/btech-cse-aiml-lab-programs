@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VVIT Student Portal - Access attendance, profile, and college information">
+  <meta name="author" content="Adhimulam Bhargav Sai Viswanath">
+  <title>Student Portal - VVIT</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="header-content">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/VVIT_Logo.png" alt="VVIT Logo" class="logo">
+      <h1>Vasireddy Venkatadri Institute of Technology</h1>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <a href="home.html" target="contentFrame" id="homeLink">Home</a>
+    <a href="attendance.html" target="contentFrame" id="attendanceLink">Attendance</a>
+    <a href="studprofile.html" target="contentFrame" id="profileLink">Student Profile</a>
+    <a href="about.html" target="contentFrame" id="aboutLink">About</a>
+  </nav>
+
+  <!-- Iframe Section -->
+  <main>
+    <iframe name="contentFrame" src="home.html" title="Content Frame" id="mainFrame"></iframe>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 VVIT Student Portal | Designed by Adhimulam Bhargav Sai Viswanath</p>
+  </footer>
+
+  <script>
+    // Highlight active navigation link
+    const links = document.querySelectorAll('nav a');
+    const iframe = document.getElementById('mainFrame');
+    
+    // Set home as active by default
+    document.getElementById('homeLink').classList.add('active');
+    
+    // Add click event to each link
+    links.forEach(link => {
+      link.addEventListener('click', function() {
+        // Remove active class from all links
+        links.forEach(l => l.classList.remove('active'));
+        // Add active class to clicked link
+        this.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>
