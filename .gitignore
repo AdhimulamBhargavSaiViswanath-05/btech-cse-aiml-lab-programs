@@ -1,48 +1,86 @@
-# Compiled class files
-*.class
-
-# Log files
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# Virtual machine crash logs
-hs_err_pid*
-
+# ------------------------------
 # Python
+# ------------------------------
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+*.py,cover
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# VS Code
+# ------------------------------
+# Jupyter
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Java / JVM
+# ------------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# ------------------------------
+# Node.js
+# ------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
 .vscode/
-
-# IntelliJ
 .idea/
-
-# Eclipse
+*.iml
 .project
 .classpath
 .settings/
+.metadata/
 
-# OS generated files
+# ------------------------------
+# OS files
+# ------------------------------
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Temporary files
+# ------------------------------
+# Temporary / backup files
+# ------------------------------
 *.tmp
 *.temp
+*~
+
+# ------------------------------
+# ML / DL model artifacts
+# ------------------------------
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.tflite
+*.ckpt
+*.pt
+*.pth
+*.joblib
+*.sav
+
+# ------------------------------
+# Dataset artifacts (large/raw)
+# ------------------------------
+datasets/
+data/
+raw_data/
+*.parquet
+*.feather
+*.npy
+*.npz
