@@ -1,0 +1,154 @@
+AIM:
+To implement and analyse a Deep Feedforward Neural Network (MLP) for handwritten digit 
+classification on the MNIST dataset without using Convolutional Neural Networks, and to study 
+the effects of architecture depth, regularization, and hyperparameters on performance.
+Introduction:
+Unlike tabular datasets (e.g., Iris), image datasets are high-dimensional and spatially structured. The 
+MNIST dataset consists of grayscale images of handwritten digits (0–9). Each image contains 28 × 28 
+pixels.
+When flattened, each image becomes a 784-dimensional input vector. Unlike CNNs, which exploit 
+spatial locality through convolution, a fully connected network treats every pixel independently,
+leading to:
+ Large number of parameters
+ Increased risk of overfitting
+ Higher computational cost
+ No inherent spatial feature learning
+This experiment helps students understand:
+ The limitations of MLPs for image data
+ The importance of inductive bias
+ The need for regularization
+ Behavior of deep architectures on high-dimensional inputs
+Dataset:
+The Iris dataset is one of the most famous datasets in machine learning and statistics. It is a small, 
+well-known dataset often used for practicing various classification and data analysis techniques. The 
+dataset is named after the iris flower, as it contains measurements of four features from three species 
+of iris flowers.
+Iris Dataset is considered as the Hello World for data science. It contains five columns namely – Petal 
+Length, Petal Width, Sepal Length, Sepal Width, and Species Type
+Here are the key characteristics of the Iris dataset:
+Dataset Characteristics:
+ Total samples: 70,000 images
+ Training samples: 60,000
+ Test samples: 10,000
+ Image size: 28 × 28
+ Channels: 1 (grayscale)
+ Number of classes: 10 (digits 0–9)
+ Balanced dataset
+Each pixel intensity ranges from 0 to 255.
+
+
+Target (Classes):
+ There are 10 digits from 0 to 9
+ So there are 10 categories in total
+Purpose and Significance of the MNIST Dataset:
+The MNIST dataset is a benchmark dataset for handwritten digit classification. It contains 70,000 
+grayscale images (28×28 pixels) of digits from 0 to 9 and is widely used in machine learning and deep 
+learning research.
+Academic Significance
+ Serves as a standard benchmark for evaluating classification algorithms (LeCun et al., 1998).
+ Used to study neural network training, optimization, overfitting, and regularization 
+techniques.
+ Helps students understand high-dimensional input spaces (784 features per image).
+ Frequently used to compare different architectures such as MLPs and CNNs.
+ Acts as an introductory dataset for image classification tasks.
+Industrial Significance
+ Represents real-world digit recognition problems in Optical Character Recognition (OCR).
+ Applications include:
+o Bank cheque processing
+o Postal code recognition
+o Form digitization
+o Automated document analysis
+ Used in industry for:
+o Prototyping new deep learning frameworks
+o Benchmarking hardware performance
+o Testing model deployment strategies
+Although relatively simple compared to modern datasets, MNIST remains important for foundational 
+experimentation and performance benchmarking.
+Data Preprocessing:
+1. Reshape images from (28, 28) → (784,)
+2. Normalize pixel values:
+�� =
+��
+255
+3. One-hot encode target labels
+4. Train-validation split
+Model Development
+Build a Sequential MLP model using Keras.
+Baseline Architecture
+ Input Layer: 784 neurons
+ Hidden Layer 1: 512 neurons, ReLU
+ Hidden Layer 2: 256 neurons, ReL
+
+
+Dropout: 0.3–0.5
+ Output Layer: 10 neurons, Softmax
+Compilation
+ Optimizer: Adam
+ Loss: categorical_crossentropy
+ Metrics: accuracy
+Evaluation Metrics
+ Accuracy
+ Confusion Matrix
+ Per-class accuracy
+ Precision, Recall, F1-score
+ Loss and Accuracy Curves
+Experiments to Perform
+Experiment 1: Baseline Model
+Train simple 2-hidden-layer network.
+Experiment 2: Deep Network
+Increase depth to 4–5 layers.
+Experiment 3: Overfitting Study
+Remove dropout and observe behavior.
+Experiment 4: Regularization Study
+Add:
+ Dropout
+ L2 Regularization
+ EarlyStopping
+Experiment 5: Hyperparameter Tuning
+Vary:
+ Learning rate
+ Batch size
+ Neurons per layer
+Experiment 6:
+ SGD vs Adam
+ Learning rate variations
+ Batch size
+ Depth (2–5 hidden layers)
+ Width (128–1024 neurons)
+Expected Performance Benchmarks
+ Simple MLP: ~96–97%
+ Deeper MLP with tuning: ~97–98%
+ Cannot match CNN (~99%+)
+Code/ Notebook
+
+Check the colab notebook for basic workflow
+Deliverables:
+ Python Notebook
+ Printed outputs
+ Confusion matrices
+ Accuracy/loss plots
+ Comparative summary table
+ Insights section (minimum 1 page analysis)
+Analysis Questions (To be answered in record)
+1. Why does MNIST require more neurons than Iris?
+2. Compute total number of parameters in your baseline model.
+3. Why is softmax necessary for multi-class classification?
+4. Why does overfitting occur more severely in MLPs for image data?
+5. Compare training and validation curves.
+6. What is the effect of dropout?
+7. Why are CNNs preferred for image tasks?
+8. How many parameters does your deepest model contain?
+9. Which optimizer performed best and why?
+10. What is the best accuracy achieved without CNNs?
+VIVA VOCE QUESTIONS
+1. Why is MNIST more complex than Iris?
+2. What is the dimensionality of MNIST input?
+3. How many parameters are there in a 784×512 layer?
+4. Why is ReLU preferred?
+5. What problem does dropout solve?
+6. Why does MLP ignore spatial locality?
+7. What is vanishing gradient?
+8. Why does model size increase drastically?
+9. Why is CNN superior for images?
+10. What was your best accuracy without CNN?
+*** End of Lab 04**
