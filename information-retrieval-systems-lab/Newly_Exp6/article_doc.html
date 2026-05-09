@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Documentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            padding: 40px 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .document-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border: 1px solid #ddd;
+        }
+
+        .doc-title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #333;
+            color: #000;
+        }
+
+        .doc-section {
+            margin-bottom: 20px;
+        }
+
+        .doc-label {
+            font-weight: bold;
+            color: #000;
+            display: inline-block;
+            min-width: 140px;
+        }
+
+        .doc-value {
+            display: inline;
+            color: #333;
+        }
+
+        .doc-headline {
+            font-size: 18px;
+            color: #000080;
+            font-weight: bold;
+        }
+
+        .content-summary {
+            margin-top: 30px;
+        }
+
+        .content-summary h2 {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #000;
+        }
+
+        .content-text {
+            text-align: justify;
+            line-height: 1.8;
+            color: #333;
+        }
+
+        .full-content-section {
+            margin-top: 20px;
+        }
+
+        .full-content-section h2 {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #000;
+        }
+
+        .full-content-text {
+            text-align: justify;
+            line-height: 1.8;
+            color: #333;
+            white-space: pre-wrap; /* Preserve line breaks */
+        }
+
+        .doc-image {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .doc-image img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            margin-top: 10px;
+        }
+
+        .doc-footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .print-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .print-btn:hover {
+            background: #0056b3;
+        }
+
+        @media print {
+            .print-btn {
+                display: none;
+            }
+            
+            body {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="print-btn" onclick="window.print()">🖨️ Print</button>
+    
+    <div class="document-container" id="docContainer">
+        <div class="doc-title" id="docTitle">News Article Documentation</div>
+        
+        <div class="doc-section">
+            <span class="doc-label">Source:</span>
+            <span class="doc-value" id="docSource">-</span>
+        </div>
+        
+        <div class="doc-section">
+            <span class="doc-label">Headline:</span>
+            <span class="doc-value doc-headline" id="docHeadline">-</span>
+        </div>
+        
+        <div class="doc-section">
+            <span class="doc-label">Published Date:</span>
+            <span class="doc-value" id="docDate">-</span>
+        </div>
+        
+        <div class="doc-section">
+            <span class="doc-label">Author:</span>
+            <span class="doc-value" id="docAuthor">-</span>
+        </div>
+        
+        <div class="doc-section">
+            <span class="doc-label">Article URL:</span>
+            <span class="doc-value">
+                <a href="#" id="docURL" target="_blank">-</a>
+            </span>
+        </div>
+        
+        <div class="full-content-section">
+            <h2>Article Content</h2>
+            <div class="full-content-text" id="docFullContent"></div>
+        </div>
+        
+        <div class="doc-image" id="docImageSection" style="display: none;">
+            <h2>Article Image</h2>
+            <img id="docImage" src="" alt="Article Image" onerror="this.parentElement.style.display='none'">
+        </div>
+        
+        <div class="doc-footer">
+            Document generated on: <span id="docTimestamp"></span>
+        </div>
+    </div>
+
+    <script>
+        // Load article data from sessionStorage
+        const articleData = JSON.parse(sessionStorage.getItem('articleData') || '{}');
+        
+        if (articleData && articleData.Headline) {
+            // Set document title
+            document.title = articleData.Headline + ' - News Article';
+            document.getElementById('docTitle').textContent = articleData.Headline + ' - News Article';
+            
+            // Populate fields
+            document.getElementById('docSource').textContent = articleData.Source || 'N/A';
+            document.getElementById('docHeadline').textContent = articleData.Headline || 'N/A';
+            document.getElementById('docDate').textContent = formatDate(articleData.Date) || 'N/A';
+            document.getElementById('docAuthor').textContent = articleData.Author || 'Unknown';
+            
+            // Set URL as hyperlink
+            const urlElement = document.getElementById('docURL');
+            if (articleData.URL) {
+                urlElement.href = articleData.URL;
+                urlElement.textContent = articleData.URL;
+            } else {
+                urlElement.textContent = 'N/A';
+            }
+            
+            // Set full content only (removed snippet display)
+            const fullContent = articleData.Full_Content || articleData.Content_Snippet || 'Full content not available.';
+            document.getElementById('docFullContent').textContent = fullContent;
+            
+            // Display image if available
+            if (articleData['Image URL'] && articleData['Image URL'] !== 'N/A') {
+                document.getElementById('docImageSection').style.display = 'block';
+                document.getElementById('docImage').src = articleData['Image URL'];
+            }
+            
+            // Set timestamp
+            document.getElementById('docTimestamp').textContent = new Date().toLocaleString();
+        } else {
+            document.getElementById('docContainer').innerHTML = '<p style="text-align: center; color: red;">Article data not found.</p>';
+        }
+        
+        function formatDate(dateString) {
+            try {
+                const date = new Date(dateString);
+                return date.toLocaleDateString('en-US', { 
+                    year: 'numeric', 
+                    month: 'long', 
+                    day: 'numeric' 
+                });
+            } catch {
+                return dateString;
+            }
+        }
+    </script>
+</body>
+</html>

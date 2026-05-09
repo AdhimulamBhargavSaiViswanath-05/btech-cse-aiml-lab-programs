@@ -1,0 +1,1001 @@
+id,text,created_at,location,sentiment,platform,category
+1,Traffic management in Gwalior is pathetic.,2025-01-01T05:50:39Z,Gwalior,Negative,Reddit,Transportation
+2,Networking events in Visakhapatnam are superb.,2025-01-01T09:12:12Z,Visakhapatnam,Positive,WhatsApp,Business
+3,Air quality in Dehradun is wonderful today. AQI: 202,2025-01-02T09:18:47Z,Dehradun,Positive,YouTube,Environment
+4,New school infrastructure in Srinagar is wonderful.,2025-01-02T11:19:55Z,Srinagar,Positive,Twitter,Education
+5,Online doctor consultation via @Netflix was outstanding.,2025-01-02T12:08:14Z,Guwahati,Positive,Reddit,Healthcare
+6,Health awareness campaign in Bhopal is outstanding.,2025-01-02T12:11:38Z,Bhopal,Positive,YouTube,Healthcare
+7,The new Quantum Computing update is brilliant! #Technology,2025-01-02T18:25:24Z,Bhopal,Positive,Facebook,Lifestyle
+8,Water conservation efforts in Madurai are phenomenal.,2025-01-02T19:43:03Z,Madurai,Positive,Reddit,Environment
+9,Cloud computing adoption in Howrah is brilliant.,2025-01-02T22:26:21Z,Howrah,Positive,YouTube,Fashion
+10,@Netflix's new feature update is standard. #TechNews,2025-01-02T23:09:36Z,Varanasi,Neutral,LinkedIn,Technology
+11,Foggy in Gwalior today. Temperature: 26°C,2025-01-02T23:51:59Z,Gwalior,Negative,Facebook,Weather
+12,Developers in Ranchi are building amazing Quantum Computing solutions.,2025-01-03T11:49:00Z,Ranchi,Neutral,LinkedIn,Culture
+13,Dussehra celebrations in Jabalpur! perfect atmosphere! #Dussehra,2025-01-03T23:32:16Z,Jabalpur,Positive,LinkedIn,Festival
+14,New school infrastructure in Nashik is perfect.,2025-01-04T03:50:26Z,Nashik,Positive,LinkedIn,Education
+15,Community support in Meerut is average.,2025-01-05T06:35:05Z,Meerut,Neutral,LinkedIn,Social
+16,NGO work in Guwahati is standard.,2025-01-05T20:10:00Z,Guwahati,Neutral,YouTube,Social
+17,@Dunzo ride in Gwalior was perfect. #RideSharing,2025-01-06T03:54:07Z,Gwalior,Positive,Telegram,Transportation
+18,Parking in Kochi is phenomenal.,2025-01-06T06:04:35Z,Kochi,Positive,WhatsApp,Automotive
+19,@Dunzo ride in Raipur was worst. #RideSharing,2025-01-06T13:37:36Z,Raipur,Negative,Reddit,Transportation
+20,Public transport in Bhopal needs improvement. #Infrastructure,2025-01-06T16:11:55Z,Bhopal,Negative,Twitter,Infrastructure
+21,The beach in Varanasi is disappointing! Must visit. #Travel,2025-01-06T19:45:24Z,Varanasi,Negative,Facebook,Tourism
+22,Digital education in Kolkata is awesome.,2025-01-06T23:16:01Z,Kolkata,Positive,YouTube,Education
+23,Cloud computing adoption in Faridabad is average.,2025-01-07T08:58:56Z,Faridabad,Neutral,Telegram,Real Estate
+24,5G speed in Dehradun is finally poor! @Microsoft,2025-01-07T13:39:22Z,Dehradun,Negative,Reddit,Celebrity
+25,Municipal reforms in Jaipur are perfect.,2025-01-07T20:59:32Z,Jaipur,Positive,Telegram,Politics
+26,@Uber launched new Tesla Model! Excited to try it. #Culture,2025-01-07T21:05:58Z,Agra,Neutral,LinkedIn,Culture
+27,Metro services in Vijayawada are regular. @GHMC,2025-01-07T21:17:47Z,Vijayawada,Neutral,WhatsApp,Infrastructure
+28,Recycling programs in Guwahati are perfect.,2025-01-08T01:00:55Z,Guwahati,Positive,Instagram,Environment
+29,@Amazon Prime's investment options are fantastic.,2025-01-08T05:45:27Z,Ghaziabad,Positive,Reddit,Finance
+30,Raksha Bandhan celebrations in Mysuru! amazing atmosphere! #Raksha Bandhan,2025-01-08T08:14:20Z,Mysuru,Positive,YouTube,Festival
+31,Developers in Ludhiana are building amazing Blockchain solutions.,2025-01-08T11:09:41Z,Ludhiana,Neutral,Instagram,Technology
+32,Recycling programs in Patna are horrible.,2025-01-08T14:16:24Z,Patna,Negative,Reddit,Environment
+33,The 5G ecosystem in Raipur is perfect.,2025-01-08T20:23:43Z,Raipur,Positive,Facebook,Fashion
+34,Developers in Pune are building amazing Quantum Computing solutions.,2025-01-09T00:51:55Z,Pune,Positive,LinkedIn,Technology
+35,Binge-watching Mirzapur on @Zee5. Totally okay!,2025-01-09T09:09:12Z,Patna,Neutral,Telegram,Entertainment
+36,The new Cloud update is awesome! #Technology,2025-01-09T12:00:14Z,Coimbatore,Positive,LinkedIn,Real Estate
+37,Developers in Gwalior are building amazing AR/VR solutions.,2025-01-09T13:43:21Z,Gwalior,Positive,Reddit,Real Estate
+38,Foggy in Madurai today. Temperature: 30°C,2025-01-09T15:30:48Z,Madurai,Neutral,YouTube,Weather
+39,Tree plantation drive in Ranchi is excellent! #GoGreen,2025-01-09T20:16:13Z,Ranchi,Positive,Twitter,Environment
+40,Street food at Electronic City in Delhi is excellent!,2025-01-10T16:16:54Z,Delhi,Positive,YouTube,Food
+41,Community support in Kolkata is bad.,2025-01-10T17:12:47Z,Kolkata,Negative,WhatsApp,Social
+42,Stock trading on @Amazon Prime is pathetic.,2025-01-10T18:43:27Z,Meerut,Negative,Facebook,Finance
+43,Entrepreneurship programs in Mysuru are poor.,2025-01-11T00:22:34Z,Mysuru,Negative,Telegram,Business
+44,Attended Big Data conference in Coimbatore. average experience!,2025-01-11T06:52:08Z,Coimbatore,Neutral,WhatsApp,Real Estate
+45,Agra tourism is excellent. Highly recommend visiting!,2025-01-11T09:47:36Z,Agra,Positive,Reddit,Tourism
+46,Movie theaters in Jaipur have brilliant facilities.,2025-01-12T13:15:31Z,Jaipur,Positive,WhatsApp,Entertainment
+47,Stadium facilities in Jaipur are fantastic.,2025-01-12T20:12:21Z,Jaipur,Positive,Facebook,Sports
+48,Street celebrations for Dussehra in Surat are worst!,2025-01-12T22:45:42Z,Surat,Negative,Reddit,Festival
+49,Networking events in Pune are awesome.,2025-01-12T23:17:23Z,Pune,Positive,Instagram,Business
+50,The Big Data ecosystem in Faridabad is typical.,2025-01-13T03:20:26Z,Faridabad,Neutral,Twitter,Lifestyle
+51,Youth sports programs in Nashik are fantastic.,2025-01-14T07:29:55Z,Nashik,Positive,Instagram,Sports
+52,The heritage sites in Madurai are standard.,2025-01-14T19:43:58Z,Madurai,Neutral,Reddit,Tourism
+53,Social services in Surat are okay.,2025-01-15T04:22:02Z,Surat,Neutral,Twitter,Social
+54,Tree plantation drive in Vadodara is brilliant! #GoGreen,2025-01-15T14:19:54Z,Vadodara,Positive,WhatsApp,Environment
+55,The new series on @YouTube is standard!,2025-01-16T04:48:00Z,Hyderabad,Neutral,Telegram,Entertainment
+56,Water supply issues in Bandra. #Visakhapatnam,2025-01-16T09:13:21Z,Visakhapatnam,Positive,WhatsApp,Infrastructure
+57,The new Quantum Computing update is impressive! #Technology,2025-01-16T12:38:37Z,Ranchi,Positive,Facebook,Celebrity
+58,Online doctor consultation via @Amazon Prime was regular.,2025-01-16T17:49:06Z,Thiruvananthapuram,Neutral,Reddit,Healthcare
+59,Developers in Rajkot are building amazing Blockchain solutions.,2025-01-16T18:18:15Z,Rajkot,Negative,Instagram,News
+60,New policy announcement in Varanasi. horrible for citizens.,2025-01-16T21:25:18Z,Varanasi,Negative,WhatsApp,Politics
+61,Developers in Faridabad are building amazing Cloud solutions.,2025-01-17T19:41:39Z,Faridabad,Positive,LinkedIn,Lifestyle
+62,Cloud computing adoption in Jaipur is okay.,2025-01-17T19:57:36Z,Jaipur,Neutral,YouTube,Culture
+63,Test drove i20 today. Performance is brilliant!,2025-01-17T20:41:56Z,Meerut,Positive,LinkedIn,Automotive
+64,Youth programs in Faridabad are average.,2025-01-17T21:17:26Z,Faridabad,Neutral,Telegram,Social
+65,@Reliance's new feature update is fantastic. #TechNews,2025-01-17T22:41:31Z,Bengaluru,Positive,Telegram,Fashion
+66,Just upgraded to Alexa. Performance is frustrating!,2025-01-18T07:20:00Z,Ahmedabad,Negative,Reddit,Celebrity
+67,Youth sports programs in Thane are okay.,2025-01-18T12:42:11Z,Thane,Neutral,Telegram,Sports
+68,5G speed in Bengaluru is finally typical! @Apple,2025-01-19T04:26:49Z,Bengaluru,Neutral,Twitter,Fashion
+69,Mental health support in Goa is great.,2025-01-20T19:48:57Z,Goa,Positive,LinkedIn,Healthcare
+70,Co-working spaces in Chennai are impressive.,2025-01-21T04:48:57Z,Chennai,Positive,LinkedIn,Business
+71,5G speed in Vijayawada is finally standard! @Tesla,2025-01-21T05:08:21Z,Vijayawada,Neutral,LinkedIn,Lifestyle
+72,Best pav bhaji I've ever had in Howrah! #FoodLover,2025-01-21T10:06:49Z,Howrah,Positive,Twitter,Food
+73,Karim's in Ludhiana serves awesome pav bhaji.,2025-01-22T07:25:11Z,Ludhiana,Positive,Reddit,Food
+74,@Amazon Prime's fitness tracking is frustrating!,2025-01-22T09:44:33Z,Nashik,Negative,Facebook,Healthcare
+75,Electric vehicles in Patna are becoming outstanding.,2025-01-22T15:32:49Z,Patna,Positive,Facebook,Automotive
+76,museum in Chennai is perfect for photography!,2025-01-23T02:19:45Z,Chennai,Negative,Instagram,Tourism
+77,Financial literacy programs in Madurai are phenomenal.,2025-01-23T04:01:44Z,Madurai,Positive,Reddit,Finance
+78,Climate in Kanpur is unacceptable this season.,2025-01-23T05:33:52Z,Kanpur,Negative,Instagram,Weather
+79,Match at Wankhede in Surat was frustrating! #Kabaddi,2025-01-23T18:35:39Z,Surat,Negative,Instagram,Sports
+80,Quick commerce in Kochi via @Airtel is awesome!,2025-01-23T21:07:29Z,Kochi,Positive,LinkedIn,E-commerce
+81,Public transport in Indore needs improvement. #Infrastructure,2025-01-24T02:53:23Z,Indore,Neutral,Twitter,Infrastructure
+82,Garbage collection in Bandra is frustrating. @BengaluruMetro,2025-01-24T03:33:53Z,Meerut,Negative,Reddit,Infrastructure
+83,Jio's AI features are standard. #Fashion,2025-01-24T05:57:50Z,Pune,Neutral,Facebook,Fashion
+84,Developers in Patna are building amazing Machine Learning solutions.,2025-01-24T10:49:37Z,Patna,Positive,Instagram,Fashion
+85,@Reliance's new feature update is fantastic. #TechNews,2025-01-25T00:02:35Z,Nashik,Positive,Instagram,Real Estate
+86,Last-mile connectivity in Coimbatore needs improvement.,2025-01-25T10:36:34Z,Coimbatore,Negative,Twitter,Transportation
+87,Cloud computing adoption in Allahabad is amazing.,2025-01-25T18:03:44Z,Allahabad,Positive,YouTube,News
+88,The new Blockchain update is bad! #Technology,2025-01-26T00:03:45Z,Guwahati,Negative,Twitter,News
+89,@Jio delivered vada pav typically. #Food,2025-01-26T00:41:22Z,Vadodara,Neutral,YouTube,Food
+90,Corporate culture in Agra is awful.,2025-01-26T06:03:41Z,Agra,Negative,Instagram,Business
+91,Political rally in Amritsar today. Large crowd gathered.,2025-01-26T12:24:36Z,Amritsar,Positive,LinkedIn,Politics
+92,Heatwave in Meerut. Stay hydrated! #Winter,2025-01-27T02:02:36Z,Meerut,Negative,Twitter,Weather
+93,Solar energy adoption in Surat is pathetic.,2025-01-27T05:33:22Z,Surat,Negative,Twitter,Environment
+94,Return policy of @Airtel is great.,2025-01-27T05:57:40Z,Kolkata,Positive,Telegram,E-commerce
+95,Digital education in Varanasi is fantastic.,2025-01-28T02:40:51Z,Varanasi,Positive,Facebook,Education
+96,Community event in Nashik was okay! #Community,2025-01-28T06:47:05Z,Nashik,Neutral,YouTube,Social
+97,Attended Cloud conference in Ahmedabad. horrible experience!,2025-01-28T06:49:32Z,Ahmedabad,Negative,Twitter,Lifestyle
+98,Last-mile connectivity in Kolkata needs improvement.,2025-01-28T09:35:22Z,Kolkata,Positive,Reddit,Transportation
+99,@Google launched new Pixel! Excited to try it. #Lifestyle,2025-01-28T14:58:44Z,Delhi,Positive,Reddit,Lifestyle
+100,Street food at Gachibowli in Nashik is impressive!,2025-01-29T07:51:27Z,Nashik,Positive,Twitter,Food
+101,Government initiative in Lucknow is awesome.,2025-01-29T08:17:57Z,Lucknow,Positive,Instagram,Politics
+102,IPL match tonight in Thiruvananthapuram! Excited! #IPL,2025-01-29T18:27:58Z,Thiruvananthapuram,Positive,LinkedIn,Sports
+103,@Paytm's new feature update is okay. #TechNews,2025-01-30T01:45:39Z,Jaipur,Neutral,Instagram,Lifestyle
+104,Traffic management in Bhopal is bad.,2025-01-30T09:31:21Z,Bhopal,Negative,Twitter,Transportation
+105,Airport connectivity in Ghaziabad is decent.,2025-01-30T18:30:04Z,Ghaziabad,Neutral,Facebook,Transportation
+106,Just watched Pushpa 2 on @Amazon Prime. perfect! #Entertainment,2025-01-30T20:31:31Z,Mumbai,Positive,Instagram,Entertainment
+107,5G speed in Vijayawada is finally unacceptable! @Zomato,2025-01-31T06:02:03Z,Vijayawada,Negative,Twitter,Lifestyle
+108,Cloud computing adoption in Varanasi is brilliant.,2025-01-31T09:33:21Z,Varanasi,Positive,YouTube,Technology
+109,Airport connectivity in Mumbai is typical.,2025-01-31T10:08:01Z,Mumbai,Neutral,YouTube,Transportation
+110,The Football championship in Bhopal is disappointing!,2025-01-31T16:24:57Z,Bhopal,Negative,Instagram,Sports
+111,@Tata's health app is bad! #HealthTech,2025-02-01T03:40:01Z,Mumbai,Negative,Reddit,Healthcare
+112,Developers in Varanasi are building amazing Cloud solutions.,2025-02-01T08:06:50Z,Varanasi,Positive,LinkedIn,Real Estate
+113,Blinkit's AI features are amazing. #Technology,2025-02-01T23:18:50Z,Chandigarh,Positive,Facebook,Technology
+114,The new AI update is awful! #Technology,2025-02-02T04:23:21Z,Srinagar,Negative,Reddit,Culture
+115,The pav bhaji in Howrah is standard! Must try. #Food,2025-02-02T06:37:39Z,Howrah,Neutral,Instagram,Food
+116,Parking facilities in Patna are amazing.,2025-02-02T17:43:48Z,Patna,Positive,Telegram,Transportation
+117,Road conditions in Electronic City are okay. #Vadodara,2025-02-03T09:13:02Z,Vadodara,Neutral,LinkedIn,Infrastructure
+118,The Pongal decorations in Coimbatore are brilliant!,2025-02-03T23:31:54Z,Coimbatore,Positive,WhatsApp,Festival
+119,Tesla's AI features are outstanding. #RealEstate,2025-02-04T00:22:19Z,Jaipur,Positive,Twitter,Real Estate
+120,The architecture of Golden Temple is decent!,2025-02-04T03:10:38Z,Delhi,Neutral,Reddit,Tourism
+121,Road conditions in Hitech City are regular. #Kolkata,2025-02-04T08:11:48Z,Kolkata,Neutral,LinkedIn,Infrastructure
+122,@Netflix's new feature update is outstanding. #TechNews,2025-02-04T19:15:10Z,Amritsar,Positive,Instagram,Lifestyle
+123,museum in Kochi is perfect for photography!,2025-02-05T09:52:59Z,Kochi,Positive,LinkedIn,Tourism
+124,Entrepreneurship programs in Jaipur are terrible.,2025-02-05T14:11:11Z,Jaipur,Negative,Telegram,Business
+125,Bengaluru tourism is okay. Highly recommend visiting!,2025-02-05T14:57:59Z,Bengaluru,Neutral,Instagram,Tourism
+126,New school infrastructure in Allahabad is awful.,2025-02-05T15:32:18Z,Allahabad,Negative,Telegram,Education
+127,Auto rickshaw fares in Surat are okay.,2025-02-05T18:43:58Z,Surat,Neutral,Instagram,Transportation
+128,Cloud computing adoption in Allahabad is outstanding.,2025-02-05T19:59:37Z,Allahabad,Positive,Reddit,Lifestyle
+129,Hospital facilities in Ahmedabad are phenomenal.,2025-02-05T20:13:49Z,Ahmedabad,Positive,LinkedIn,Healthcare
+130,Holi preparations in full swing in Dhanbad.,2025-02-06T16:44:33Z,Dhanbad,Negative,Instagram,Festival
+131,Attended Cloud conference in Indore. phenomenal experience!,2025-02-07T04:53:06Z,Indore,Positive,Reddit,Lifestyle
+132,Electric vehicles in Bengaluru are becoming outstanding.,2025-02-07T05:49:13Z,Bengaluru,Positive,Telegram,Automotive
+133,Extreme weather conditions in Mumbai. Be cautious!,2025-02-07T18:05:40Z,Mumbai,Positive,Reddit,Weather
+134,@Google's health app is frustrating! #HealthTech,2025-02-07T18:51:36Z,Meerut,Negative,Telegram,Healthcare
+135,Pleasant weather in Gwalior today. Perfect for outing!,2025-02-08T01:32:15Z,Gwalior,Positive,Instagram,Weather
+136,The new IoT update is awesome! #Technology,2025-02-08T12:37:25Z,Nagpur,Positive,YouTube,Culture
+137,Electric vehicles in Aurangabad are becoming awful.,2025-02-09T06:03:26Z,Aurangabad,Negative,Twitter,Automotive
+138,@Uber launched new Galaxy! Excited to try it. #Technology,2025-02-09T14:26:47Z,Bengaluru,Positive,LinkedIn,Technology
+139,Sports infrastructure in Dhanbad is average.,2025-02-09T17:53:18Z,Dhanbad,Neutral,Facebook,Sports
+140,@Swiggy launched new iPad! Excited to try it. #RealEstate,2025-02-09T23:51:04Z,Chandigarh,Negative,WhatsApp,Real Estate
+141,Haldiram's in Nagpur serves worst samosa.,2025-02-09T23:57:03Z,Nagpur,Negative,Twitter,Food
+142,Best burger I've ever had in Agra! #FoodLover,2025-02-10T09:33:43Z,Agra,Positive,Twitter,Food
+143,Just upgraded to Galaxy. Performance is outstanding!,2025-02-10T21:24:02Z,Rajkot,Positive,Telegram,Culture
+144,The IoT ecosystem in Visakhapatnam is awesome.,2025-02-11T01:38:04Z,Visakhapatnam,Positive,Twitter,Real Estate
+145,Christmas special events in Srinagar are outstanding.,2025-02-11T09:13:30Z,Srinagar,Positive,YouTube,Festival
+146,New flyover construction in Patna is fantastic.,2025-02-11T22:29:07Z,Patna,Positive,YouTube,Infrastructure
+147,Student life in Madurai is fantastic.,2025-02-12T16:44:47Z,Madurai,Positive,WhatsApp,Education
+148,Digital education in Kanpur is excellent.,2025-02-12T19:45:51Z,Kanpur,Positive,WhatsApp,Education
+149,Durga Puja preparations in full swing in Agra.,2025-02-13T08:17:13Z,Agra,Neutral,Instagram,Festival
+150,@Apple launched new Echo! Excited to try it. #News,2025-02-13T11:51:08Z,Vadodara,Neutral,YouTube,News
+151,Cyclone warning for Faridabad. Stay safe! #CycloneAlert,2025-02-13T17:23:08Z,Faridabad,Positive,Instagram,Weather
+152,Public transport in Rajkot is brilliant.,2025-02-13T20:03:44Z,Rajkot,Positive,YouTube,Transportation
+153,Automotive industry in Thiruvananthapuram is superb.,2025-02-14T02:15:50Z,Thiruvananthapuram,Positive,YouTube,Automotive
+154,Heatwave in Madurai. Stay hydrated! #Monsoon,2025-02-14T04:52:08Z,Madurai,Negative,Reddit,Weather
+155,@Spotify's fitness tracking is awesome!,2025-02-14T06:19:47Z,Bhopal,Positive,LinkedIn,Healthcare
+156,Winter fog affecting visibility in Hyderabad.,2025-02-14T11:17:51Z,Hyderabad,Neutral,WhatsApp,Weather
+157,Celebrating Durga Puja with family in Dehradun. #Festival,2025-02-14T18:48:01Z,Dehradun,Positive,YouTube,Festival
+158,The vada pav in Mumbai is fantastic! Must try. #Food,2025-02-14T21:19:35Z,Mumbai,Positive,LinkedIn,Food
+159,Business opportunities in Meerut are disappointing.,2025-02-15T02:45:49Z,Meerut,Negative,Reddit,Business
+160,The Machine Learning ecosystem in Kota is regular.,2025-02-15T05:28:56Z,Kota,Neutral,Instagram,Celebrity
+161,The Web Development on @Amazon Prime is outstanding.,2025-02-15T08:22:58Z,Bhubaneswar,Positive,WhatsApp,Education
+162,The restaurant scene in Surat is okay.,2025-02-15T09:50:14Z,Surat,Neutral,LinkedIn,Food
+163,Myntra's AI features are average. #Celebrity,2025-02-15T19:21:13Z,Amritsar,Neutral,Telegram,Celebrity
+164,@Zee5's exam prep courses are okay!,2025-02-15T19:33:36Z,Hyderabad,Neutral,YouTube,Education
+165,Monsoon arrives in Dhanbad! Relief from heat. #Monsoon,2025-02-15T21:47:16Z,Dhanbad,Positive,LinkedIn,Weather
+166,Medical services at Apollo Hospital are typical.,2025-02-16T03:39:38Z,Mumbai,Neutral,Twitter,Healthcare
+167,Volunteer programs in Indore are excellent.,2025-02-16T20:01:58Z,Indore,Positive,Telegram,Social
+168,Traffic jam near Electronic City in Jodhpur. #Infrastructure,2025-02-16T21:23:21Z,Jodhpur,Positive,Reddit,Infrastructure
+169,The architecture of Gateway of India is superb!,2025-02-17T08:02:26Z,Kolkata,Positive,Reddit,Tourism
+170,Shopping experience on @Microsoft is perfect.,2025-02-17T09:02:51Z,Jaipur,Positive,Telegram,E-commerce
+171,Cloud computing adoption in Kochi is superb.,2025-02-17T23:09:49Z,Kochi,Positive,LinkedIn,Technology
+172,Health awareness campaign in Jodhpur is regular.,2025-02-18T14:02:31Z,Jodhpur,Neutral,Reddit,Healthcare
+173,NGO work in Mumbai is decent.,2025-02-18T15:07:37Z,Mumbai,Neutral,WhatsApp,Social
+174,Cloud computing adoption in Mumbai is brilliant.,2025-02-18T18:46:38Z,Mumbai,Positive,WhatsApp,Lifestyle
+175,The new 5G update is regular! #Technology,2025-02-18T19:51:56Z,Thiruvananthapuram,Neutral,Twitter,Real Estate
+176,Emergency services in Allahabad are amazing.,2025-02-18T22:42:47Z,Allahabad,Positive,Twitter,Healthcare
+177,Heatwave in Allahabad. Stay hydrated! #Winter,2025-02-19T01:55:40Z,Allahabad,Positive,Instagram,Weather
+178,@Google's new feature update is disappointing. #TechNews,2025-02-19T11:49:44Z,Ghaziabad,Negative,Facebook,Celebrity
+179,Quick commerce in Vadodara via @Reliance is decent!,2025-02-20T08:53:41Z,Vadodara,Neutral,Twitter,E-commerce
+180,Extreme weather conditions in Goa. Be cautious!,2025-02-20T16:35:05Z,Goa,Positive,Facebook,Weather
+181,@PhonePe's new feature update is superb. #TechNews,2025-02-20T19:43:03Z,Ahmedabad,Positive,WhatsApp,Technology
+182,@Ola's new feature update is perfect. #TechNews,2025-02-20T22:09:39Z,Aurangabad,Positive,LinkedIn,News
+183,Political rally in Kota today. Large crowd gathered.,2025-02-20T22:51:10Z,Kota,Positive,YouTube,Politics
+184,Air quality in Thiruvananthapuram is pathetic today. AQI: 309,2025-02-21T19:13:40Z,Thiruvananthapuram,Negative,WhatsApp,Environment
+185,@Zomato launched new Pixel! Excited to try it. #News,2025-02-21T22:29:05Z,Gwalior,Neutral,Facebook,News
+186,Online doctor consultation via @Amazon Prime was typical.,2025-02-21T23:46:46Z,Meerut,Neutral,Facebook,Healthcare
+187,Developers in Mysuru are building amazing Blockchain solutions.,2025-02-23T21:07:32Z,Mysuru,Negative,Twitter,Technology
+188,Volunteer programs in Amritsar are poor.,2025-02-23T23:38:07Z,Amritsar,Negative,Twitter,Social
+189,Automotive industry in Vijayawada is normal.,2025-02-24T16:42:34Z,Vijayawada,Neutral,YouTube,Automotive
+190,@Amazon's service center in Vijayawada is regular.,2025-02-24T18:42:46Z,Vijayawada,Neutral,Instagram,Automotive
+191,Just upgraded to iPad. Performance is amazing!,2025-02-24T19:33:51Z,Bhopal,Positive,Instagram,Fashion
+192,Public services in Kochi are typical.,2025-02-24T20:03:29Z,Kochi,Neutral,Reddit,Politics
+193,Power outage in Bandra since morning. @GHMC,2025-02-25T13:35:04Z,Dhanbad,Positive,WhatsApp,Infrastructure
+194,Airport connectivity in Lucknow is wonderful.,2025-02-25T21:37:07Z,Lucknow,Positive,Facebook,Transportation
+195,The new Blockchain update is brilliant! #Technology,2025-02-26T05:49:29Z,Guwahati,Positive,LinkedIn,Real Estate
+196,Waste management in Raipur needs improvement.,2025-02-26T08:11:12Z,Raipur,Negative,Telegram,Environment
+197,Waterlogging in Koramangala area. @DelhiMetro please help!,2025-02-26T15:07:39Z,Mumbai,Positive,YouTube,Infrastructure
+198,Traffic jam near Whitefield in Kanpur. #Infrastructure,2025-02-26T19:12:18Z,Kanpur,Neutral,YouTube,Infrastructure
+199,Concert in Thiruvananthapuram was disappointing! #Entertainment,2025-02-27T07:44:35Z,Thiruvananthapuram,Negative,Reddit,Entertainment
+200,Binge-watching Mirzapur on @Zee5. Totally perfect!,2025-02-27T08:49:10Z,Srinagar,Positive,WhatsApp,Entertainment
+201,Winter fog affecting visibility in Thiruvananthapuram.,2025-02-27T15:59:04Z,Thiruvananthapuram,Neutral,YouTube,Weather
+202,@Dunzo launched new MacBook! Excited to try it. #Celebrity,2025-02-27T16:13:22Z,Bhopal,Positive,Telegram,Celebrity
+203,Volunteer programs in Kochi are disappointing.,2025-02-28T20:10:55Z,Kochi,Negative,WhatsApp,Social
+204,@Samsung's health app is brilliant! #HealthTech,2025-02-28T22:01:31Z,Ghaziabad,Positive,Instagram,Healthcare
+205,Cloud computing adoption in Gwalior is wonderful.,2025-02-28T23:23:17Z,Gwalior,Positive,Instagram,Real Estate
+206,Cab services in Goa are superb.,2025-03-01T00:11:42Z,Goa,Positive,Facebook,Transportation
+207,Road conditions in Whitefield are great. #Guwahati,2025-03-01T10:23:20Z,Guwahati,Positive,Reddit,Infrastructure
+208,Garbage collection in Electronic City is wonderful. @BMC,2025-03-01T12:05:10Z,Kochi,Positive,Telegram,Infrastructure
+209,The AI ecosystem in Nagpur is standard.,2025-03-01T15:49:21Z,Nagpur,Neutral,LinkedIn,Real Estate
+210,Haldiram's in Aurangabad serves typical biryani.,2025-03-01T17:32:22Z,Aurangabad,Neutral,YouTube,Food
+211,Banking services in Coimbatore are regular.,2025-03-02T01:11:40Z,Coimbatore,Neutral,Instagram,Finance
+212,Ordered from @Microsoft. pathetic experience!,2025-03-02T03:04:41Z,Lucknow,Negative,Twitter,E-commerce
+213,@Samsung's new feature update is fantastic. #TechNews,2025-03-02T03:07:32Z,Ludhiana,Positive,Twitter,Culture
+214,@Google's delivery service is impressive. #OnlineShopping,2025-03-03T12:20:28Z,Mumbai,Positive,LinkedIn,E-commerce
+215,The new AI update is awesome! #Technology,2025-03-03T13:08:52Z,Aurangabad,Positive,YouTube,News
+216,Test drove Creta today. Performance is amazing!,2025-03-04T10:31:52Z,Faridabad,Positive,Facebook,Automotive
+217,Banking services in Rajkot are amazing.,2025-03-04T13:44:08Z,Rajkot,Positive,Telegram,Finance
+218,@Microsoft launched new Model 3! Looks standard. #Auto,2025-03-04T15:11:47Z,Jabalpur,Neutral,Facebook,Automotive
+219,@Microsoft's new feature update is normal. #TechNews,2025-03-04T20:32:08Z,Lucknow,Neutral,Reddit,Lifestyle
+220,Attended IoT conference in Rajkot. average experience!,2025-03-05T12:34:34Z,Rajkot,Neutral,YouTube,Technology
+221,Kolkata's specialty burger is a must-try!,2025-03-06T05:54:27Z,Kolkata,Neutral,LinkedIn,Food
+222,Cloud computing adoption in Gwalior is pathetic.,2025-03-06T11:49:58Z,Gwalior,Negative,Reddit,News
+223,@Zepto launched new Chrome! Excited to try it. #Celebrity,2025-03-06T12:39:22Z,Mumbai,Positive,Reddit,Celebrity
+224,Pollution levels in Ghaziabad are worst. #Environment,2025-03-06T13:26:16Z,Ghaziabad,Negative,Telegram,Environment
+225,Automotive industry in Bengaluru is bad.,2025-03-07T04:04:25Z,Bengaluru,Negative,Facebook,Automotive
+226,Visited Qutub Minar in Vadodara. Absolutely typical! #Tourism,2025-03-07T05:43:52Z,Vadodara,Neutral,Facebook,Tourism
+227,India performance was great. #Kabaddi,2025-03-07T07:35:37Z,Agra,Positive,Telegram,Sports
+228,Movie theaters in Dehradun have horrible facilities.,2025-03-07T20:04:24Z,Dehradun,Negative,WhatsApp,Entertainment
+229,Environmental awareness in Vijayawada is unacceptable.,2025-03-08T07:23:37Z,Vijayawada,Negative,Twitter,Environment
+230,Developers in Visakhapatnam are building amazing AI solutions.,2025-03-08T09:26:10Z,Visakhapatnam,Negative,Facebook,Culture
+231,The new 5G update is worst! #Technology,2025-03-08T18:30:07Z,Howrah,Negative,Telegram,News
+232,EV charging infrastructure in Dehradun is horrible.,2025-03-08T23:03:45Z,Dehradun,Negative,Instagram,Automotive
+233,Stock trading on @Amazon Prime is disappointing.,2025-03-08T23:27:31Z,Madurai,Negative,Telegram,Finance
+234,Job market in Rajkot is amazing.,2025-03-08T23:31:25Z,Rajkot,Positive,Twitter,Business
+235,The AR/VR ecosystem in Ahmedabad is impressive.,2025-03-09T00:43:35Z,Ahmedabad,Positive,Facebook,Fashion
+236,Return policy of @BigBasket is impressive.,2025-03-10T02:57:18Z,Mysuru,Positive,Facebook,E-commerce
+237,Traffic management in Vadodara is average.,2025-03-10T06:49:09Z,Vadodara,Neutral,Twitter,Transportation
+238,@Myntra launched new Surface! Excited to try it. #Fashion,2025-03-10T14:54:49Z,Coimbatore,Neutral,Instagram,Fashion
+239,@Google's customer service is phenomenal.,2025-03-10T23:36:50Z,Ahmedabad,Positive,YouTube,E-commerce
+240,@Tata's new feature update is great. #TechNews,2025-03-11T01:03:58Z,Nagpur,Positive,Reddit,Real Estate
+241,Sale on @Paytm has frustrating deals! #Shopping,2025-03-11T03:45:10Z,Vijayawada,Negative,WhatsApp,E-commerce
+242,@PhonePe launched new Android! Excited to try it. #News,2025-03-11T19:39:15Z,Indore,Negative,Facebook,News
+243,Volunteer programs in Guwahati are unacceptable.,2025-03-12T04:17:53Z,Guwahati,Negative,Twitter,Social
+244,@Myntra's customer service is disappointing.,2025-03-12T04:47:50Z,Kota,Negative,Facebook,E-commerce
+245,The AR/VR ecosystem in Allahabad is wonderful.,2025-03-12T05:57:09Z,Allahabad,Positive,Facebook,Celebrity
+246,Corporate culture in Kochi is excellent.,2025-03-12T09:04:56Z,Kochi,Positive,LinkedIn,Business
+247,Vaccination drive in Jabalpur is horrible.,2025-03-12T09:58:43Z,Jabalpur,Negative,Instagram,Healthcare
+248,The Quantum Computing ecosystem in Nashik is unacceptable.,2025-03-12T23:00:38Z,Nashik,Negative,Reddit,Culture
+249,Happy Christmas from Jodhpur! #Festivities,2025-03-13T10:12:20Z,Jodhpur,Negative,Telegram,Festival
+250,Cab services in Vadodara are superb.,2025-03-13T12:14:35Z,Vadodara,Positive,Twitter,Transportation
+251,Entertainment industry in Coimbatore is unacceptable.,2025-03-14T08:21:02Z,Coimbatore,Negative,Reddit,Entertainment
+252,@Microsoft's new feature update is standard. #TechNews,2025-03-14T11:36:16Z,Dehradun,Neutral,Instagram,Technology
+253,Volunteer programs in Howrah are amazing.,2025-03-14T14:57:53Z,Howrah,Positive,WhatsApp,Social
+254,Hidden gems of Thane are worth discovering!,2025-03-14T17:11:00Z,Thane,Negative,Telegram,Tourism
+255,Pollution levels in Mumbai are terrible. #Environment,2025-03-16T12:36:31Z,Mumbai,Negative,Instagram,Environment
+256,Climate in Rajkot is unacceptable this season.,2025-03-16T17:16:21Z,Rajkot,Negative,Reddit,Weather
+257,Corporate culture in Varanasi is regular.,2025-03-16T23:24:06Z,Varanasi,Neutral,LinkedIn,Business
+258,New flyover construction in Aurangabad is regular.,2025-03-16T23:53:00Z,Aurangabad,Neutral,Twitter,Infrastructure
+259,Climate in Lucknow is disappointing this season.,2025-03-17T04:49:43Z,Lucknow,Negative,Reddit,Weather
+260,@Google's service center in Thane is fantastic.,2025-03-17T06:01:38Z,Thane,Positive,Facebook,Automotive
+261,Cloud computing adoption in Kanpur is worst.,2025-03-17T07:36:29Z,Kanpur,Negative,Twitter,Fashion
+262,@Apple launched new Pixel! Excited to try it. #Technology,2025-03-17T08:11:32Z,Dehradun,Positive,YouTube,Technology
+263,Salman Khan's new expressway is wonderful. #Cinema,2025-03-17T08:27:18Z,Howrah,Positive,Instagram,Entertainment
+264,The new metro in Aurangabad is fantastic!,2025-03-17T19:47:56Z,Aurangabad,Positive,LinkedIn,Infrastructure
+265,Traditional Holi celebrations in Amritsar.,2025-03-17T21:36:20Z,Amritsar,Positive,Twitter,Festival
+266,Markets crowded for Navratri shopping in Thane.,2025-03-17T22:15:52Z,Thane,Neutral,Reddit,Festival
+267,Election campaign in Hyderabad is in full swing. #Elections,2025-03-17T23:31:17Z,Hyderabad,Neutral,Reddit,Politics
+268,Automotive industry in Agra is standard.,2025-03-17T23:36:34Z,Agra,Neutral,Telegram,Automotive
+269,@Apple launched new Windows! Excited to try it. #Lifestyle,2025-03-18T15:26:19Z,Varanasi,Positive,Reddit,Lifestyle
+270,Just upgraded to Alexa. Performance is fantastic!,2025-03-18T22:46:14Z,Amritsar,Positive,WhatsApp,Lifestyle
+271,Cloud computing adoption in Coimbatore is wonderful.,2025-03-19T10:25:38Z,Coimbatore,Positive,WhatsApp,Real Estate
+272,Kota's specialty vada pav is a must-try!,2025-03-19T13:55:01Z,Kota,Positive,WhatsApp,Food
+273,Senior citizen facilities in Kanpur are horrible.,2025-03-19T20:30:00Z,Kanpur,Negative,Telegram,Social
+274,@Flipkart launched new Chrome! Excited to try it. #RealEstate,2025-03-19T21:49:46Z,Amritsar,Negative,Twitter,Real Estate
+275,Cloud computing adoption in Jabalpur is amazing.,2025-03-20T05:58:42Z,Jabalpur,Positive,Telegram,Technology
+276,The Blockchain ecosystem in Surat is typical.,2025-03-20T06:10:09Z,Surat,Neutral,Facebook,Real Estate
+277,Shopping experience on @Dunzo is awful.,2025-03-20T09:22:04Z,Mumbai,Negative,Instagram,E-commerce
+278,Community support in Indore is worst.,2025-03-20T14:19:09Z,Indore,Negative,WhatsApp,Social
+279,Street celebrations for Holi in Lucknow are typical!,2025-03-20T16:28:28Z,Lucknow,Neutral,WhatsApp,Festival
+280,@Spotify's exam prep courses are outstanding!,2025-03-20T18:16:35Z,Vadodara,Positive,YouTube,Education
+281,Heatwave in Goa. Stay hydrated! #Summer,2025-03-20T20:32:56Z,Goa,Positive,Facebook,Weather
+282,Political rally in Patna today. Large crowd gathered.,2025-03-20T23:21:35Z,Patna,Positive,Facebook,Politics
+283,Food delivery from @Netflix was excellent.,2025-03-21T05:44:36Z,Jaipur,Positive,Facebook,Food
+284,The new IoT update is awesome! #Technology,2025-03-21T12:39:02Z,Dehradun,Positive,YouTube,Lifestyle
+285,Return policy of @Reliance is awful.,2025-03-21T12:56:12Z,Meerut,Negative,Instagram,E-commerce
+286,Water supply issues in Bandra. #Lucknow,2025-03-21T18:12:56Z,Lucknow,Neutral,Facebook,Infrastructure
+287,Developers in Nagpur are building amazing 5G solutions.,2025-03-22T09:27:05Z,Nagpur,Neutral,Instagram,Lifestyle
+288,The new AR/VR update is okay! #Technology,2025-03-22T12:01:02Z,Vijayawada,Neutral,YouTube,Fashion
+289,@Ola's customer service is standard.,2025-03-22T12:50:55Z,Goa,Neutral,LinkedIn,E-commerce
+290,India wins! great performance by @MS Dhoni! #Cricket,2025-03-22T18:31:05Z,Varanasi,Positive,WhatsApp,Sports
+291,Foggy in Pune today. Temperature: 29°C,2025-03-24T05:35:38Z,Pune,Positive,Twitter,Weather
+292,Shopping experience on @Paytm is frustrating.,2025-03-24T09:16:42Z,Delhi,Negative,Telegram,E-commerce
+293,Networking events in Gwalior are terrible.,2025-03-25T07:43:44Z,Gwalior,Negative,Instagram,Business
+294,Attended AR/VR conference in Surat. outstanding experience!,2025-03-25T07:46:43Z,Surat,Positive,YouTube,Real Estate
+295,Corporate culture in Srinagar is disappointing.,2025-03-26T20:31:26Z,Srinagar,Negative,WhatsApp,Business
+296,Blinkit's AI features are excellent. #News,2025-03-28T01:30:14Z,Nashik,Positive,Facebook,News
+297,Loan approval process at @Apple is awesome.,2025-03-28T03:39:28Z,Raipur,Positive,YouTube,Finance
+298,Cloud computing adoption in Coimbatore is standard.,2025-03-29T06:01:13Z,Coimbatore,Neutral,Twitter,Technology
+299,The new AI update is wonderful! #Technology,2025-03-29T06:11:17Z,Indore,Positive,Telegram,Real Estate
+300,Street food at Whitefield in Surat is average!,2025-03-29T11:46:36Z,Surat,Neutral,WhatsApp,Food
+301,Just upgraded to Android. Performance is bad!,2025-03-29T13:00:54Z,Bhubaneswar,Negative,Facebook,Technology
+302,IPL match tonight in Aurangabad! Excited! #IPL,2025-03-29T16:35:41Z,Aurangabad,Negative,Telegram,Sports
+303,Smart city project in Patna is normal.,2025-03-30T06:06:27Z,Patna,Neutral,WhatsApp,Politics
+304,OTT content quality on @Spotify is wonderful.,2025-03-31T10:38:39Z,Agra,Positive,Telegram,Entertainment
+305,Hidden gems of Kanpur are worth discovering!,2025-04-01T02:08:47Z,Kanpur,Neutral,Reddit,Tourism
+306,5G speed in Thane is finally typical! @Netflix,2025-04-01T05:24:45Z,Thane,Neutral,Instagram,Real Estate
+307,Online doctor consultation via @Netflix was fantastic.,2025-04-01T08:42:58Z,Rajkot,Positive,Telegram,Healthcare
+308,Just upgraded to Surface. Performance is typical!,2025-04-01T09:59:18Z,Ghaziabad,Neutral,YouTube,Real Estate
+309,Cloud computing adoption in Jabalpur is decent.,2025-04-01T15:41:33Z,Jabalpur,Neutral,LinkedIn,Celebrity
+310,Ganesh Chaturthi preparations in full swing in Chennai.,2025-04-01T22:20:24Z,Chennai,Positive,Reddit,Festival
+311,Foggy in Nashik today. Temperature: 34°C,2025-04-02T03:52:29Z,Nashik,Negative,Facebook,Weather
+312,Social awareness campaigns in Chandigarh are average.,2025-04-02T17:10:24Z,Chandigarh,Neutral,LinkedIn,Social
+313,Amazing dosa at Punjab Grill in Varanasi! #Foodie,2025-04-03T00:56:45Z,Varanasi,Negative,WhatsApp,Food
+314,@Amazon's new feature update is outstanding. #TechNews,2025-04-03T11:36:49Z,Gwalior,Positive,YouTube,Real Estate
+315,Diwali preparations in full swing in Chennai.,2025-04-03T21:32:30Z,Chennai,Neutral,LinkedIn,Festival
+316,Thiruvananthapuram's specialty chole bhature is a must-try!,2025-04-04T00:26:24Z,Thiruvananthapuram,Neutral,Telegram,Food
+317,@Ola opened new office in Pune. #Business,2025-04-04T02:23:20Z,Pune,Neutral,WhatsApp,Business
+318,ISRO's AI features are normal. #RealEstate,2025-04-04T07:51:30Z,Kolkata,Neutral,Facebook,Real Estate
+319,Heavy rain in Jaipur. Waterlogging in many areas. #Rain,2025-04-04T08:30:25Z,Jaipur,Neutral,WhatsApp,Weather
+320,5G speed in Aurangabad is finally amazing! @Microsoft,2025-04-04T23:05:37Z,Aurangabad,Positive,LinkedIn,News
+321,@Airtel's new feature update is great. #TechNews,2025-04-05T01:04:29Z,Bhubaneswar,Positive,WhatsApp,Real Estate
+322,Just upgraded to Pixel. Performance is amazing!,2025-04-05T02:32:31Z,Kanpur,Positive,LinkedIn,Fashion
+323,5G speed in Aurangabad is finally terrible! @Zomato,2025-04-05T02:33:07Z,Aurangabad,Negative,Telegram,Celebrity
+324,@Google launched new Surface! Excited to try it. #Lifestyle,2025-04-05T13:04:40Z,Guwahati,Neutral,Telegram,Lifestyle
+325,Cyclone warning for Guwahati. Stay safe! #CycloneAlert,2025-04-05T16:17:36Z,Guwahati,Neutral,Telegram,Weather
+326,Water conservation efforts in Thane are excellent.,2025-04-05T22:38:06Z,Thane,Positive,YouTube,Environment
+327,Educational institutions in Raipur are great.,2025-04-06T02:52:31Z,Raipur,Positive,Instagram,Education
+328,The pizza in Dehradun is awesome! Must try. #Food,2025-04-06T18:47:50Z,Dehradun,Positive,Facebook,Food
+329,Visited Red Fort in Nagpur. Absolutely outstanding! #Tourism,2025-04-06T22:13:31Z,Nagpur,Positive,Instagram,Tourism
+330,The heritage sites in Hyderabad are brilliant.,2025-04-07T04:16:43Z,Hyderabad,Positive,Twitter,Tourism
+331,Healthcare infrastructure in Surat needs improvement.,2025-04-08T08:14:43Z,Surat,Neutral,Facebook,Healthcare
+332,5G speed in Pune is finally normal! @Blinkit,2025-04-08T16:32:38Z,Pune,Neutral,LinkedIn,Celebrity
+333,Stadium facilities in Thiruvananthapuram are outstanding.,2025-04-08T19:49:27Z,Thiruvananthapuram,Positive,LinkedIn,Sports
+334,Youth sports programs in Thane are normal.,2025-04-09T05:57:04Z,Thane,Neutral,Facebook,Sports
+335,5G speed in Indore is finally regular! @Myntra,2025-04-09T06:55:18Z,Indore,Neutral,Instagram,News
+336,Job market in Jaipur is awesome.,2025-04-09T11:31:56Z,Jaipur,Positive,LinkedIn,Business
+337,UPI transactions via @Jio are standard.,2025-04-09T11:52:18Z,Kolkata,Neutral,Twitter,Finance
+338,Infrastructure spending in Ranchi is unacceptable.,2025-04-09T14:30:46Z,Ranchi,Negative,WhatsApp,Politics
+339,Health awareness campaign in Pune is awesome.,2025-04-10T04:19:35Z,Pune,Positive,Instagram,Healthcare
+340,Credit card from @Zepto has superb benefits.,2025-04-10T07:30:35Z,Guwahati,Positive,Twitter,Finance
+341,The Dussehra decorations in Visakhapatnam are regular!,2025-04-10T09:37:05Z,Visakhapatnam,Neutral,LinkedIn,Festival
+342,The Badminton championship in Patna is decent!,2025-04-10T11:19:44Z,Patna,Neutral,Instagram,Sports
+343,Climate in Surat is standard this season.,2025-04-10T15:30:30Z,Surat,Neutral,Telegram,Weather
+344,Just upgraded to Alexa. Performance is normal!,2025-04-10T16:08:57Z,Ahmedabad,Neutral,Reddit,News
+345,NGO work in Thiruvananthapuram is impressive.,2025-04-10T20:58:04Z,Thiruvananthapuram,Positive,LinkedIn,Social
+346,Health awareness campaign in Bhopal is decent.,2025-04-10T22:07:59Z,Bhopal,Neutral,Telegram,Healthcare
+347,Public services in Patna are disappointing.,2025-04-11T05:50:03Z,Patna,Negative,Instagram,Politics
+348,Air quality in Kolkata is wonderful today. AQI: 170,2025-04-11T15:57:00Z,Kolkata,Positive,Instagram,Environment
+349,Healthcare infrastructure in Madurai needs improvement.,2025-04-12T12:15:34Z,Madurai,Neutral,Instagram,Healthcare
+350,The new expressway in Coimbatore is pathetic!,2025-04-12T12:51:19Z,Coimbatore,Negative,Facebook,Infrastructure
+351,Just upgraded to Android. Performance is worst!,2025-04-12T15:59:07Z,Dehradun,Negative,Facebook,Fashion
+352,The Big Data ecosystem in Madurai is phenomenal.,2025-04-12T20:42:22Z,Madurai,Positive,Facebook,Fashion
+353,Business infrastructure in Ranchi is decent.,2025-04-12T22:05:59Z,Ranchi,Neutral,Reddit,Business
+354,Municipal reforms in Surat are regular.,2025-04-12T23:34:29Z,Surat,Neutral,YouTube,Politics
+355,Food delivery from @Netflix was awful.,2025-04-12T23:49:29Z,Nagpur,Negative,WhatsApp,Food
+356,Pollution levels in Mumbai are decent. #Environment,2025-04-13T01:01:21Z,Mumbai,Neutral,Twitter,Environment
+357,@Aamir Khan spotted in Thane! #Bollywood,2025-04-13T07:54:08Z,Thane,Positive,Reddit,Entertainment
+358,Business opportunities in Rajkot are fantastic.,2025-04-13T12:18:44Z,Rajkot,Positive,Twitter,Business
+359,The Pongal decorations in Dhanbad are decent!,2025-04-13T22:24:37Z,Dhanbad,Neutral,Facebook,Festival
+360,Kabaddi match in Raipur was frustrating! #ProKabaddi,2025-04-14T15:28:56Z,Raipur,Negative,WhatsApp,Sports
+361,Student life in Vadodara is amazing.,2025-04-14T22:32:06Z,Vadodara,Positive,WhatsApp,Education
+362,5G speed in Dhanbad is finally wonderful! @Google,2025-04-15T12:19:24Z,Dhanbad,Positive,Facebook,Fashion
+363,Educational institutions in Pune are standard.,2025-04-15T14:17:03Z,Pune,Neutral,YouTube,Education
+364,Developers in Nagpur are building amazing IoT solutions.,2025-04-15T14:36:00Z,Nagpur,Positive,Facebook,Lifestyle
+365,Stock trading on @Spotify is standard.,2025-04-15T21:56:39Z,Agra,Neutral,WhatsApp,Finance
+366,@Samsung's service center in Vadodara is average.,2025-04-16T04:50:40Z,Vadodara,Neutral,Facebook,Automotive
+367,Ordered from @Zomato. pathetic experience!,2025-04-16T18:52:27Z,Amritsar,Negative,Instagram,E-commerce
+368,@Tata delivered pav bhaji disappointingly. #Food,2025-04-16T21:01:01Z,Rajkot,Negative,WhatsApp,Food
+369,Developers in Kanpur are building amazing Cloud solutions.,2025-04-17T02:31:11Z,Kanpur,Positive,Instagram,Celebrity
+370,Digital education in Ludhiana is decent.,2025-04-17T11:19:01Z,Ludhiana,Neutral,LinkedIn,Education
+371,Just upgraded to Android. Performance is unacceptable!,2025-04-17T14:30:31Z,Gwalior,Negative,Instagram,Real Estate
+372,Onam celebrations in Nagpur! standard atmosphere! #Onam,2025-04-17T22:24:14Z,Nagpur,Neutral,YouTube,Festival
+373,Job market in Agra is perfect.,2025-04-18T03:19:24Z,Agra,Positive,YouTube,Business
+374,Municipal reforms in Dhanbad are terrible.,2025-04-18T04:39:46Z,Dhanbad,Negative,WhatsApp,Politics
+375,OTT content quality on @Spotify is outstanding.,2025-04-18T14:22:34Z,Hyderabad,Positive,WhatsApp,Entertainment
+376,@Reliance's bike taxi service is excellent.,2025-04-18T14:53:04Z,Nashik,Positive,YouTube,Transportation
+377,@Tesla's new feature update is excellent. #TechNews,2025-04-19T12:58:42Z,Kolkata,Positive,YouTube,Lifestyle
+378,Shopping experience on @Zepto is great.,2025-04-19T18:24:12Z,Faridabad,Positive,Telegram,E-commerce
+379,Social initiatives in Delhi are worst.,2025-04-20T02:24:41Z,Delhi,Negative,Twitter,Social
+380,Financial literacy programs in Thane are horrible.,2025-04-20T06:06:54Z,Thane,Negative,Reddit,Finance
+381,Road conditions in Andheri are normal. #Vijayawada,2025-04-20T06:58:51Z,Vijayawada,Neutral,LinkedIn,Infrastructure
+382,The Cloud ecosystem in Gwalior is horrible.,2025-04-20T13:38:03Z,Gwalior,Negative,Instagram,Celebrity
+383,Vaccination drive in Vijayawada is wonderful.,2025-04-20T14:16:10Z,Vijayawada,Positive,Instagram,Healthcare
+384,Match at Wankhede in Kochi was impressive! #Badminton,2025-04-20T18:58:31Z,Kochi,Positive,YouTube,Sports
+385,Social awareness campaigns in Kota are decent.,2025-04-20T19:04:44Z,Kota,Neutral,LinkedIn,Social
+386,@Dunzo's payment app is brilliant! #Fintech,2025-04-20T23:30:42Z,Kochi,Positive,Twitter,Finance
+387,Just upgraded to Alexa. Performance is average!,2025-04-21T00:23:05Z,Nashik,Neutral,Telegram,Fashion
+388,Corporate culture in Bhubaneswar is normal.,2025-04-21T06:23:13Z,Bhubaneswar,Neutral,Twitter,Business
+389,New policy announcement in Kolkata. brilliant for citizens.,2025-04-21T21:28:43Z,Kolkata,Positive,LinkedIn,Politics
+390,Winter fog affecting visibility in Bengaluru.,2025-04-21T22:34:46Z,Bengaluru,Neutral,Instagram,Weather
+391,Parking facilities in Chandigarh are great.,2025-04-22T06:39:53Z,Chandigarh,Positive,YouTube,Transportation
+392,The new metro in Kochi is poor!,2025-04-22T11:07:28Z,Kochi,Negative,Reddit,Infrastructure
+393,Auto rickshaw fares in Meerut are fantastic.,2025-04-22T18:13:41Z,Meerut,Positive,YouTube,Transportation
+394,Cloud computing adoption in Thane is average.,2025-04-22T21:49:16Z,Thane,Neutral,Twitter,News
+395,@Deepika Padukone spotted in Amritsar! #Bollywood,2025-04-22T22:15:52Z,Amritsar,Neutral,WhatsApp,Entertainment
+396,Infrastructure spending in Gwalior is terrible.,2025-04-23T00:41:12Z,Gwalior,Negative,Facebook,Politics
+397,Stadium facilities in Ranchi are excellent.,2025-04-23T04:39:43Z,Ranchi,Positive,Facebook,Sports
+398,Pongal preparations in full swing in Vadodara.,2025-04-23T10:44:03Z,Vadodara,Neutral,Telegram,Festival
+399,Higher education opportunities in Srinagar are terrible.,2025-04-23T17:02:28Z,Srinagar,Negative,Twitter,Education
+400,Heatwave in Ahmedabad. Stay hydrated! #Winter,2025-04-24T09:36:17Z,Ahmedabad,Neutral,YouTube,Weather
+401,Air quality in Bhopal is poor today. AQI: 366,2025-04-24T17:02:00Z,Bhopal,Negative,WhatsApp,Environment
+402,Last-mile connectivity in Chandigarh needs improvement.,2025-04-25T11:03:45Z,Chandigarh,Positive,WhatsApp,Transportation
+403,Senior citizen facilities in Jodhpur are amazing.,2025-04-25T17:38:18Z,Jodhpur,Positive,Facebook,Social
+404,Sports infrastructure in Dhanbad is unacceptable.,2025-04-25T22:23:16Z,Dhanbad,Negative,Instagram,Sports
+405,@Tesla's new feature update is superb. #TechNews,2025-04-26T14:08:28Z,Thane,Positive,LinkedIn,News
+406,Just upgraded to Android. Performance is phenomenal!,2025-04-26T17:10:11Z,Nagpur,Positive,Instagram,Real Estate
+407,Cab services in Kanpur are unacceptable.,2025-04-27T03:08:33Z,Kanpur,Negative,WhatsApp,Transportation
+408,Investment climate in Bengaluru is perfect.,2025-04-28T00:47:31Z,Bengaluru,Positive,YouTube,Business
+409,@Flipkart's customer service is standard.,2025-04-28T08:03:06Z,Chennai,Neutral,WhatsApp,E-commerce
+410,@Paytm ride in Varanasi was brilliant. #RideSharing,2025-04-28T23:58:34Z,Varanasi,Positive,Reddit,Transportation
+411,Just upgraded to Galaxy. Performance is amazing!,2025-04-29T03:58:40Z,Varanasi,Positive,Instagram,Culture
+412,Jio's AI features are worst. #Celebrity,2025-04-29T06:27:43Z,Gwalior,Negative,WhatsApp,Celebrity
+413,Extreme weather conditions in Faridabad. Be cautious!,2025-04-29T10:37:07Z,Faridabad,Neutral,Telegram,Weather
+414,Online learning on @Netflix is perfect.,2025-04-29T18:14:40Z,Patna,Positive,YouTube,Education
+415,Vaccination drive in Agra is excellent.,2025-04-30T04:45:56Z,Agra,Positive,LinkedIn,Healthcare
+416,@Uber ride in Gwalior was unacceptable. #RideSharing,2025-04-30T05:53:01Z,Gwalior,Negative,Instagram,Transportation
+417,Vaccination drive in Faridabad is standard.,2025-04-30T07:57:53Z,Faridabad,Neutral,LinkedIn,Healthcare
+418,Cloud computing adoption in Hyderabad is frustrating.,2025-04-30T12:12:00Z,Hyderabad,Negative,Twitter,Technology
+419,Weekend trip to Nashik. typical experience! #Travel,2025-04-30T19:17:31Z,Nashik,Neutral,Facebook,Tourism
+420,Metro connectivity in Kochi is fantastic.,2025-05-01T06:27:45Z,Kochi,Positive,YouTube,Transportation
+421,Financial literacy programs in Visakhapatnam are average.,2025-05-01T11:57:58Z,Visakhapatnam,Neutral,YouTube,Finance
+422,Electric vehicles in Allahabad are becoming wonderful.,2025-05-01T16:26:19Z,Allahabad,Positive,YouTube,Automotive
+423,New flyover construction in Jabalpur is outstanding.,2025-05-02T04:46:37Z,Jabalpur,Positive,Instagram,Infrastructure
+424,Indian Accent in Raipur serves standard dosa.,2025-05-02T11:27:54Z,Raipur,Neutral,Twitter,Food
+425,Kochi's specialty chole bhature is a must-try!,2025-05-02T13:46:42Z,Kochi,Negative,Twitter,Food
+426,The temple in Madurai is regular! Must visit. #Travel,2025-05-03T16:12:56Z,Madurai,Neutral,Reddit,Tourism
+427,Youth programs in Raipur are great.,2025-05-04T08:05:41Z,Raipur,Positive,Telegram,Social
+428,Entrepreneurship programs in Ranchi are bad.,2025-05-04T12:26:44Z,Ranchi,Negative,WhatsApp,Business
+429,Online learning on @SonyLIV is perfect.,2025-05-04T14:27:40Z,Kolkata,Positive,Twitter,Education
+430,Air quality in Aurangabad is wonderful today. AQI: 410,2025-05-04T14:32:47Z,Aurangabad,Positive,Telegram,Environment
+431,Just upgraded to Android. Performance is superb!,2025-05-04T16:41:07Z,Vijayawada,Positive,LinkedIn,Real Estate
+432,Just upgraded to Windows. Performance is unacceptable!,2025-05-05T07:51:27Z,Visakhapatnam,Negative,Reddit,Celebrity
+433,@Blinkit delivered biryani awfully. #Food,2025-05-05T09:18:58Z,Kolkata,Negative,Reddit,Food
+434,Climate action in Coimbatore is horrible.,2025-05-05T21:41:50Z,Coimbatore,Negative,WhatsApp,Environment
+435,Food delivery from @Ola was okay.,2025-05-06T10:35:05Z,Rajkot,Neutral,LinkedIn,Food
+436,Charity event in Varanasi was average!,2025-05-07T09:35:02Z,Varanasi,Neutral,Twitter,Social
+437,Garbage collection in Hitech City is perfect. @HyderabadMetro,2025-05-07T17:57:11Z,Kota,Positive,Facebook,Infrastructure
+438,Street food at Gachibowli in Ahmedabad is great!,2025-05-07T21:09:05Z,Ahmedabad,Positive,Instagram,Food
+439,The AI ecosystem in Vijayawada is wonderful.,2025-05-08T14:57:11Z,Vijayawada,Positive,YouTube,Technology
+440,The new Big Data update is horrible! #Technology,2025-05-08T15:53:55Z,Lucknow,Negative,Instagram,Fashion
+441,@Dunzo's new feature update is typical. #TechNews,2025-05-08T17:20:11Z,Srinagar,Neutral,LinkedIn,Real Estate
+442,@Rajinikanth spotted in Madurai! #Bollywood,2025-05-08T21:43:46Z,Madurai,Positive,Twitter,Entertainment
+443,The new Cybersecurity update is brilliant! #Technology,2025-05-08T23:11:56Z,Amritsar,Positive,WhatsApp,Culture
+444,The AR/VR ecosystem in Bengaluru is excellent.,2025-05-09T15:08:08Z,Bengaluru,Positive,WhatsApp,Lifestyle
+445,Social initiatives in Hyderabad are bad.,2025-05-09T23:39:39Z,Hyderabad,Negative,WhatsApp,Social
+446,The spirit of Janmashtami in Chennai is decent!,2025-05-10T02:04:18Z,Chennai,Neutral,Reddit,Festival
+447,5G speed in Patna is finally terrible! @Jio,2025-05-10T02:32:21Z,Patna,Negative,WhatsApp,Lifestyle
+448,@Zomato's new feature update is impressive. #TechNews,2025-05-10T10:39:03Z,Kolkata,Positive,Twitter,Real Estate
+449,@Zee5's exam prep courses are awful!,2025-05-10T10:55:00Z,Ahmedabad,Negative,Telegram,Education
+450,The new Quantum Computing update is poor! #Technology,2025-05-10T10:55:01Z,Aurangabad,Negative,Twitter,Celebrity
+451,@Tesla launched new Surface! Excited to try it. #News,2025-05-11T04:05:26Z,Nagpur,Negative,Facebook,News
+452,@SonyLIV's fitness tracking is frustrating!,2025-05-11T13:16:20Z,Goa,Negative,Facebook,Healthcare
+453,5G speed in Nashik is finally worst! @Amazon,2025-05-11T15:00:31Z,Nashik,Negative,Instagram,Fashion
+454,Online doctor consultation via @Hotstar was terrible.,2025-05-12T02:54:27Z,Pune,Negative,Twitter,Healthcare
+455,Cab services in Nashik are bad.,2025-05-13T01:28:35Z,Nashik,Negative,Facebook,Transportation
+456,@Hotstar's exam prep courses are bad!,2025-05-13T07:47:51Z,Surat,Negative,Telegram,Education
+457,5G speed in Thiruvananthapuram is finally horrible! @BigBasket,2025-05-13T10:38:22Z,Thiruvananthapuram,Negative,Telegram,News
+458,Developers in Dhanbad are building amazing AR/VR solutions.,2025-05-14T06:59:54Z,Dhanbad,Negative,Telegram,Celebrity
+459,The new Quantum Computing update is fantastic! #Technology,2025-05-14T14:51:48Z,Rajkot,Positive,Instagram,Lifestyle
+460,The architecture of Lotus Temple is wonderful!,2025-05-14T15:11:17Z,Ghaziabad,Positive,WhatsApp,Tourism
+461,@SonyLIV's exam prep courses are excellent!,2025-05-14T22:44:13Z,Gwalior,Positive,Twitter,Education
+462,Just upgraded to MacBook. Performance is okay!,2025-05-15T07:21:22Z,Madurai,Neutral,Facebook,Fashion
+463,@Amazon Prime's exam prep courses are unacceptable!,2025-05-15T15:22:37Z,Nashik,Negative,Telegram,Education
+464,Infrastructure spending in Thiruvananthapuram is normal.,2025-05-15T15:41:12Z,Thiruvananthapuram,Neutral,WhatsApp,Politics
+465,Foggy in Guwahati today. Temperature: 32°C,2025-05-15T18:46:02Z,Guwahati,Negative,WhatsApp,Weather
+466,5G speed in Patna is finally amazing! @Apple,2025-05-15T23:25:12Z,Patna,Positive,Instagram,News
+467,Cloud computing adoption in Thiruvananthapuram is standard.,2025-05-16T04:28:43Z,Thiruvananthapuram,Neutral,YouTube,Lifestyle
+468,Development projects in Surat are disappointing.,2025-05-16T15:15:25Z,Surat,Negative,WhatsApp,Politics
+469,Government initiative in Raipur is brilliant.,2025-05-16T21:04:09Z,Raipur,Positive,YouTube,Politics
+470,Financial literacy programs in Chennai are typical.,2025-05-17T05:50:05Z,Chennai,Neutral,Twitter,Finance
+471,Developers in Kolkata are building amazing Machine Learning solutions.,2025-05-17T11:19:54Z,Kolkata,Neutral,Reddit,Celebrity
+472,Cloud computing adoption in Kolkata is bad.,2025-05-17T14:17:02Z,Kolkata,Negative,Twitter,Technology
+473,@Samsung's new feature update is outstanding. #TechNews,2025-05-17T18:45:25Z,Ahmedabad,Positive,Twitter,Fashion
+474,OTT content quality on @Hotstar is phenomenal.,2025-05-17T19:25:26Z,Dhanbad,Positive,Twitter,Entertainment
+475,Last-mile connectivity in Chennai needs improvement.,2025-05-17T22:53:11Z,Chennai,Negative,Facebook,Transportation
+476,The park in Rajkot is superb! Must visit. #Travel,2025-05-18T04:10:21Z,Rajkot,Positive,YouTube,Tourism
+477,Garbage collection in Gachibowli is brilliant. @MCD,2025-05-18T07:02:37Z,Lucknow,Positive,Telegram,Infrastructure
+478,Attended Cybersecurity conference in Thane. decent experience!,2025-05-18T09:27:30Z,Thane,Neutral,WhatsApp,Technology
+479,Attended Cloud conference in Meerut. disappointing experience!,2025-05-18T11:31:49Z,Meerut,Negative,Reddit,Fashion
+480,EV charging infrastructure in Surat is awful.,2025-05-18T20:00:13Z,Surat,Negative,Facebook,Automotive
+481,Street celebrations for Dussehra in Goa are disappointing!,2025-05-18T21:29:38Z,Goa,Negative,Telegram,Festival
+482,UPI transactions via @Blinkit are worst.,2025-05-18T23:38:27Z,Madurai,Negative,Telegram,Finance
+483,Mental health support in Indore is phenomenal.,2025-05-19T01:00:49Z,Indore,Positive,Telegram,Healthcare
+484,Cab services in Kolkata are excellent.,2025-05-19T07:36:03Z,Kolkata,Positive,Instagram,Transportation
+485,Coimbatore tourism is superb. Highly recommend visiting!,2025-05-19T15:16:22Z,Coimbatore,Positive,YouTube,Tourism
+486,palace in Dhanbad is perfect for photography!,2025-05-19T16:53:35Z,Dhanbad,Negative,Twitter,Tourism
+487,Business infrastructure in Lucknow is superb.,2025-05-20T11:35:16Z,Lucknow,Positive,Twitter,Business
+488,Youth sports programs in Agra are average.,2025-05-20T16:06:18Z,Agra,Neutral,YouTube,Sports
+489,@Tesla launched new Alexa! Excited to try it. #Culture,2025-05-20T19:48:30Z,Chandigarh,Negative,Telegram,Culture
+490,Cloud computing adoption in Allahabad is fantastic.,2025-05-21T16:29:13Z,Allahabad,Positive,WhatsApp,News
+491,Match at Chinnaswamy in Kota was great! #Cricket,2025-05-21T20:24:50Z,Kota,Positive,Twitter,Sports
+492,5G speed in Chandigarh is finally horrible! @Tesla,2025-05-22T05:39:37Z,Chandigarh,Negative,WhatsApp,Lifestyle
+493,Janmashtami preparations in full swing in Jaipur.,2025-05-22T15:26:50Z,Jaipur,Negative,Twitter,Festival
+494,The new AR/VR update is impressive! #Technology,2025-05-23T05:28:13Z,Surat,Positive,Instagram,Lifestyle
+495,@Jio's payment app is phenomenal! #Fintech,2025-05-23T16:48:58Z,Ranchi,Positive,LinkedIn,Finance
+496,India Gate is a okay place to visit. #KanpurTourism,2025-05-23T22:18:11Z,Kanpur,Neutral,Twitter,Tourism
+497,Parking facilities in Patna are normal.,2025-05-24T08:23:47Z,Patna,Neutral,Telegram,Transportation
+498,The AI ecosystem in Ludhiana is excellent.,2025-05-24T11:58:25Z,Ludhiana,Positive,LinkedIn,Fashion
+499,Rainy in Nagpur today. Temperature: 38°C,2025-05-24T17:15:53Z,Nagpur,Neutral,Telegram,Weather
+500,Financial literacy programs in Kolkata are fantastic.,2025-05-24T21:30:22Z,Kolkata,Positive,Facebook,Finance
+501,Smart city project in Meerut is frustrating.,2025-05-25T02:58:07Z,Meerut,Negative,WhatsApp,Politics
+502,Cloud computing adoption in Agra is superb.,2025-05-25T06:33:51Z,Agra,Positive,LinkedIn,Fashion
+503,5G speed in Dehradun is finally poor! @Samsung,2025-05-25T08:45:56Z,Dehradun,Negative,WhatsApp,News
+504,@Spotify's investment options are worst.,2025-05-26T09:46:37Z,Patna,Negative,WhatsApp,Finance
+505,@ISRO's new feature update is fantastic. #TechNews,2025-05-26T14:29:11Z,Jaipur,Positive,Facebook,Lifestyle
+506,Ordered from @Ola. phenomenal experience!,2025-05-27T03:14:11Z,Meerut,Positive,LinkedIn,E-commerce
+507,@Microsoft launched new MacBook! Excited to try it. #Technology,2025-05-27T21:58:30Z,Rajkot,Positive,YouTube,Technology
+508,Movie theaters in Mysuru have decent facilities.,2025-05-28T01:09:54Z,Mysuru,Neutral,LinkedIn,Entertainment
+509,Attended AI conference in Bhubaneswar. phenomenal experience!,2025-05-28T01:17:32Z,Bhubaneswar,Positive,Reddit,Lifestyle
+510,@Amazon's new feature update is worst. #TechNews,2025-05-28T05:29:28Z,Agra,Negative,Telegram,Real Estate
+511,The spirit of Christmas in Jabalpur is fantastic!,2025-05-28T07:43:29Z,Jabalpur,Positive,Reddit,Festival
+512,Amazing burger at Haldiram's in Ghaziabad! #Foodie,2025-05-28T18:36:39Z,Ghaziabad,Neutral,WhatsApp,Food
+513,New flyover construction in Agra is unacceptable.,2025-05-28T21:02:00Z,Agra,Negative,Reddit,Infrastructure
+514,Digital education in Surat is fantastic.,2025-05-29T02:26:33Z,Surat,Positive,Twitter,Education
+515,Happy Pongal from Varanasi! #Festivities,2025-05-30T05:25:06Z,Varanasi,Negative,Twitter,Festival
+516,Just upgraded to Surface. Performance is decent!,2025-05-30T15:49:37Z,Chennai,Neutral,YouTube,Culture
+517,Weekend trip to Faridabad. awesome experience! #Travel,2025-05-31T02:18:25Z,Faridabad,Positive,LinkedIn,Tourism
+518,Public transport in Delhi needs improvement. #Infrastructure,2025-05-31T16:50:45Z,Delhi,Negative,Instagram,Infrastructure
+519,5G speed in Bhubaneswar is finally perfect! @Uber,2025-05-31T17:13:52Z,Bhubaneswar,Positive,Instagram,Fashion
+520,Music festival in Allahabad was fantastic! #Live,2025-05-31T19:32:54Z,Allahabad,Positive,Facebook,Entertainment
+521,Health awareness campaign in Faridabad is bad.,2025-05-31T21:59:21Z,Faridabad,Negative,Facebook,Healthcare
+522,Developers in Pune are building amazing Cybersecurity solutions.,2025-05-31T22:36:58Z,Pune,Positive,LinkedIn,Real Estate
+523,Development projects in Chennai are regular.,2025-06-01T01:56:50Z,Chennai,Neutral,LinkedIn,Politics
+524,IPL match tonight in Srinagar! Excited! #IPL,2025-06-01T02:49:33Z,Srinagar,Neutral,Reddit,Sports
+525,Health awareness campaign in Jodhpur is decent.,2025-06-01T06:24:22Z,Jodhpur,Neutral,Facebook,Healthcare
+526,Attended Blockchain conference in Allahabad. great experience!,2025-06-01T20:16:22Z,Allahabad,Positive,LinkedIn,News
+527,Climate action in Bhopal is amazing.,2025-06-02T12:10:11Z,Bhopal,Positive,Facebook,Environment
+528,Developers in Nagpur are building amazing Machine Learning solutions.,2025-06-03T18:06:52Z,Nagpur,Positive,Reddit,Culture
+529,Monsoon arrives in Kanpur! Relief from heat. #Monsoon,2025-06-03T19:56:07Z,Kanpur,Positive,Reddit,Weather
+530,Red Fort is a amazing place to visit. #VisakhapatnamTourism,2025-06-04T03:18:24Z,Visakhapatnam,Positive,Facebook,Tourism
+531,Raksha Bandhan preparations in full swing in Bhubaneswar.,2025-06-04T07:21:22Z,Bhubaneswar,Negative,Instagram,Festival
+532,Digital payments in Jodhpur are impressive.,2025-06-04T17:17:52Z,Jodhpur,Positive,Twitter,Finance
+533,Online doctor consultation via @Hotstar was okay.,2025-06-04T17:20:37Z,Allahabad,Neutral,LinkedIn,Healthcare
+534,Traffic jam near Bandra in Ahmedabad. #Infrastructure,2025-06-04T19:05:04Z,Ahmedabad,Positive,Facebook,Infrastructure
+535,@Paytm's new feature update is horrible. #TechNews,2025-06-04T21:35:46Z,Gwalior,Negative,Instagram,Real Estate
+536,The new expressway in Dhanbad is perfect!,2025-06-05T03:24:40Z,Dhanbad,Positive,Instagram,Infrastructure
+537,@Dunzo's delivery service is pathetic. #OnlineShopping,2025-06-06T11:04:11Z,Amritsar,Negative,Facebook,E-commerce
+538,Product quality from @Apple is wonderful.,2025-06-06T12:45:23Z,Nagpur,Positive,Reddit,E-commerce
+539,Return policy of @PhonePe is unacceptable.,2025-06-08T10:07:35Z,Ludhiana,Negative,WhatsApp,E-commerce
+540,Automotive industry in Jaipur is pathetic.,2025-06-08T10:25:35Z,Jaipur,Negative,Twitter,Automotive
+541,@Apple launched new iPad! Excited to try it. #Lifestyle,2025-06-08T20:24:12Z,Jabalpur,Positive,Telegram,Lifestyle
+542,Developers in Rajkot are building amazing IoT solutions.,2025-06-08T23:38:06Z,Rajkot,Positive,Facebook,Fashion
+543,Concert in Nagpur was frustrating! #Entertainment,2025-06-09T06:05:47Z,Nagpur,Negative,Instagram,Entertainment
+544,The Blockchain ecosystem in Ludhiana is awesome.,2025-06-09T09:26:22Z,Ludhiana,Positive,Reddit,Celebrity
+545,Student life in Indore is perfect.,2025-06-09T12:05:47Z,Indore,Positive,Facebook,Education
+546,Uber's AI features are average. #Fashion,2025-06-10T05:54:36Z,Kota,Neutral,Telegram,Fashion
+547,Just upgraded to Galaxy. Performance is average!,2025-06-10T11:57:44Z,Mysuru,Neutral,Telegram,Fashion
+548,Power outage in Bandra area. @MCD please help!,2025-06-10T15:20:21Z,Mysuru,Positive,Telegram,Infrastructure
+549,Fuel prices in Kolkata are horrible.,2025-06-10T21:23:47Z,Kolkata,Negative,WhatsApp,Automotive
+550,Attended Blockchain conference in Kota. awesome experience!,2025-06-11T06:33:38Z,Kota,Positive,Reddit,Culture
+551,Credit card from @BigBasket has fantastic benefits.,2025-06-11T07:47:39Z,Kolkata,Positive,YouTube,Finance
+552,Traffic jam near Electronic City in Indore. #Infrastructure,2025-06-11T17:11:28Z,Indore,Positive,Reddit,Infrastructure
+553,@YouTube's investment options are phenomenal.,2025-06-12T06:01:16Z,Jodhpur,Positive,Reddit,Finance
+554,The new Machine Learning update is regular! #Technology,2025-06-12T09:54:20Z,Gwalior,Neutral,Facebook,Lifestyle
+555,Visited India Gate in Thiruvananthapuram. Absolutely brilliant! #Tourism,2025-06-12T14:40:14Z,Thiruvananthapuram,Positive,YouTube,Tourism
+556,The new Machine Learning update is average! #Technology,2025-06-12T15:01:50Z,Indore,Neutral,Telegram,Culture
+557,@Microsoft launched new Android! Excited to try it. #Culture,2025-06-13T00:56:22Z,Goa,Negative,Telegram,Culture
+558,@Google's new feature update is unacceptable. #TechNews,2025-06-13T01:04:21Z,Thiruvananthapuram,Negative,WhatsApp,Technology
+559,Developers in Hyderabad are building amazing Cybersecurity solutions.,2025-06-13T07:22:47Z,Hyderabad,Positive,Facebook,Real Estate
+560,Waste management in Dhanbad needs improvement.,2025-06-13T09:00:47Z,Dhanbad,Positive,YouTube,Environment
+561,Just upgraded to Alexa. Performance is regular!,2025-06-13T10:17:37Z,Chandigarh,Neutral,Reddit,News
+562,@Tata's service center in Rajkot is unacceptable.,2025-06-13T18:19:00Z,Rajkot,Negative,WhatsApp,Automotive
+563,Digital payments in Varanasi are average.,2025-06-13T18:29:21Z,Varanasi,Neutral,YouTube,Finance
+564,Stadium facilities in Dhanbad are typical.,2025-06-13T18:44:13Z,Dhanbad,Neutral,Reddit,Sports
+565,Governance in Bhopal needs improvement.,2025-06-13T20:40:25Z,Bhopal,Positive,Reddit,Politics
+566,Just upgraded to Chrome. Performance is fantastic!,2025-06-14T01:45:10Z,Visakhapatnam,Positive,Telegram,Fashion
+567,Public transport in Allahabad needs improvement. #Infrastructure,2025-06-14T19:15:00Z,Allahabad,Positive,LinkedIn,Infrastructure
+568,Public services in Varanasi are bad.,2025-06-15T02:30:49Z,Varanasi,Negative,Twitter,Politics
+569,The new Machine Learning update is fantastic! #Technology,2025-06-15T04:16:55Z,Jabalpur,Positive,WhatsApp,Lifestyle
+570,Digital education in Bengaluru is phenomenal.,2025-06-15T08:44:49Z,Bengaluru,Positive,LinkedIn,Education
+571,Product quality from @Tesla is impressive.,2025-06-15T13:54:49Z,Mumbai,Positive,LinkedIn,E-commerce
+572,Corporate culture in Hyderabad is outstanding.,2025-06-15T14:04:02Z,Hyderabad,Positive,Telegram,Business
+573,Public transport in Dehradun is typical.,2025-06-17T02:58:45Z,Dehradun,Neutral,YouTube,Transportation
+574,Community event in Hyderabad was amazing! #Community,2025-06-17T07:51:22Z,Hyderabad,Positive,LinkedIn,Social
+575,Trying local cuisine in Visakhapatnam. Absolutely excellent!,2025-06-17T17:37:41Z,Visakhapatnam,Positive,Reddit,Food
+576,Parking facilities in Raipur are fantastic.,2025-06-18T00:54:54Z,Raipur,Positive,YouTube,Transportation
+577,Networking events in Ghaziabad are amazing.,2025-06-18T18:46:41Z,Ghaziabad,Positive,LinkedIn,Business
+578,NGO work in Raipur is decent.,2025-06-19T03:08:17Z,Raipur,Neutral,Reddit,Social
+579,Food delivery from @Flipkart was amazing.,2025-06-19T10:29:14Z,Chennai,Positive,Twitter,Food
+580,Tree plantation drive in Allahabad is superb! #GoGreen,2025-06-20T19:04:23Z,Allahabad,Positive,Facebook,Environment
+581,Product quality from @Myntra is perfect.,2025-06-21T09:16:31Z,Jaipur,Positive,Twitter,E-commerce
+582,Happy Onam from Gwalior! #Festivities,2025-06-22T04:15:13Z,Gwalior,Neutral,Telegram,Festival
+583,Parking facilities in Chennai are awesome.,2025-06-22T06:56:04Z,Chennai,Positive,WhatsApp,Transportation
+584,The Eid decorations in Madurai are horrible!,2025-06-22T08:53:42Z,Madurai,Negative,Reddit,Festival
+585,Heavy rain in Hyderabad. Waterlogging in many areas. #Rain,2025-06-22T14:35:57Z,Hyderabad,Neutral,Facebook,Weather
+586,The Big Data ecosystem in Gwalior is frustrating.,2025-06-22T22:08:49Z,Gwalior,Negative,Instagram,Fashion
+587,The Eid decorations in Ludhiana are regular!,2025-06-23T07:59:16Z,Ludhiana,Neutral,Reddit,Festival
+588,Test drove Model 3 today. Performance is disappointing!,2025-06-23T20:58:31Z,Guwahati,Negative,Instagram,Automotive
+589,IIT Hyderabad campus is outstanding! #Education,2025-06-24T00:20:46Z,Hyderabad,Positive,Twitter,Education
+590,The IoT ecosystem in Agra is brilliant.,2025-06-24T16:17:18Z,Agra,Positive,Telegram,Lifestyle
+591,@Rajinikanth spotted in Ranchi! #Bollywood,2025-06-24T20:14:57Z,Ranchi,Neutral,Telegram,Entertainment
+592,India performance was brilliant. #Badminton,2025-06-25T10:49:19Z,Thiruvananthapuram,Positive,Reddit,Sports
+593,The 5G ecosystem in Thiruvananthapuram is decent.,2025-06-26T02:28:26Z,Thiruvananthapuram,Neutral,Facebook,News
+594,Kota's specialty pav bhaji is a must-try!,2025-06-26T09:24:24Z,Kota,Positive,LinkedIn,Food
+595,@Myntra's customer service is normal.,2025-06-26T14:57:15Z,Vijayawada,Neutral,YouTube,E-commerce
+596,Developers in Meerut are building amazing Machine Learning solutions.,2025-06-27T10:37:12Z,Meerut,Positive,YouTube,Celebrity
+597,Online doctor consultation via @Amazon Prime was okay.,2025-06-27T12:11:45Z,Agra,Neutral,LinkedIn,Healthcare
+598,Airport connectivity in Meerut is brilliant.,2025-06-29T08:48:47Z,Meerut,Positive,Reddit,Transportation
+599,Tree plantation drive in Amritsar is terrible! #GoGreen,2025-06-29T21:41:45Z,Amritsar,Negative,Reddit,Environment
+600,5G speed in Madurai is finally brilliant! @Flipkart,2025-06-29T22:49:21Z,Madurai,Positive,YouTube,Real Estate
+601,Attended Machine Learning conference in Rajkot. poor experience!,2025-06-30T00:17:53Z,Rajkot,Negative,Instagram,Celebrity
+602,Taj Mahal is a fantastic place to visit. #ThiruvananthapuramTourism,2025-06-30T07:25:48Z,Thiruvananthapuram,Positive,Facebook,Tourism
+603,Business infrastructure in Allahabad is brilliant.,2025-06-30T13:40:00Z,Allahabad,Positive,Twitter,Business
+604,Celebrating Holi with family in Allahabad. #Festival,2025-07-01T02:11:26Z,Allahabad,Positive,LinkedIn,Festival
+605,Attended Cloud conference in Mysuru. frustrating experience!,2025-07-02T00:40:45Z,Mysuru,Negative,Facebook,Technology
+606,Kabaddi match in Kota was decent! #ProKabaddi,2025-07-02T06:57:49Z,Kota,Neutral,YouTube,Sports
+607,Attended Cloud conference in Meerut. regular experience!,2025-07-02T14:28:55Z,Meerut,Neutral,YouTube,Lifestyle
+608,Entertainment industry in Allahabad is wonderful.,2025-07-02T14:45:02Z,Allahabad,Positive,Instagram,Entertainment
+609,@Netflix's new feature update is impressive. #TechNews,2025-07-02T18:37:03Z,Ranchi,Positive,Instagram,News
+610,The Machine Learning on @Spotify is regular.,2025-07-03T03:21:37Z,Dehradun,Neutral,LinkedIn,Education
+611,India performance was worst. #Cricket,2025-07-03T13:33:24Z,Ranchi,Negative,Instagram,Sports
+612,Waste management in Kanpur needs improvement.,2025-07-04T07:47:41Z,Kanpur,Neutral,LinkedIn,Environment
+613,IIT Ludhiana campus is excellent! #Education,2025-07-04T08:01:16Z,Ludhiana,Positive,Telegram,Education
+614,Attended Machine Learning conference in Mysuru. awesome experience!,2025-07-04T08:30:09Z,Mysuru,Positive,Facebook,Fashion
+615,Green initiatives in Rajkot are excellent.,2025-07-04T08:38:56Z,Rajkot,Positive,LinkedIn,Environment
+616,Investment climate in Dehradun is awful.,2025-07-04T09:26:46Z,Dehradun,Negative,Telegram,Business
+617,Onam celebrations in Kota! terrible atmosphere! #Onam,2025-07-04T15:00:49Z,Kota,Negative,Twitter,Festival
+618,@Blinkit's app interface is disappointing.,2025-07-05T17:49:48Z,Howrah,Negative,WhatsApp,E-commerce
+619,Educational institutions in Chandigarh are average.,2025-07-05T22:13:04Z,Chandigarh,Neutral,YouTube,Education
+620,ISRO's AI features are impressive. #News,2025-07-06T03:34:59Z,Gwalior,Positive,Telegram,News
+621,Just upgraded to Chrome. Performance is wonderful!,2025-07-06T04:33:37Z,Kota,Positive,YouTube,Culture
+622,@Tata's service center in Lucknow is excellent.,2025-07-06T10:46:54Z,Lucknow,Positive,YouTube,Automotive
+623,Kabaddi match in Aurangabad was standard! #ProKabaddi,2025-07-06T13:07:37Z,Aurangabad,Neutral,LinkedIn,Sports
+624,@Amazon's new feature update is perfect. #TechNews,2025-07-07T00:50:11Z,Guwahati,Positive,YouTube,Fashion
+625,Environmental awareness in Kanpur is unacceptable.,2025-07-07T01:06:51Z,Kanpur,Negative,Reddit,Environment
+626,Community event in Vijayawada was bad! #Community,2025-07-07T18:35:26Z,Vijayawada,Negative,Instagram,Social
+627,Stadium facilities in Jaipur are excellent.,2025-07-08T19:02:14Z,Jaipur,Positive,Facebook,Sports
+628,Just upgraded to Android. Performance is typical!,2025-07-08T19:45:18Z,Thiruvananthapuram,Neutral,Reddit,News
+629,The new series on @Amazon Prime is superb!,2025-07-09T00:10:17Z,Allahabad,Positive,Facebook,Entertainment
+630,@Zepto launched new iPhone! Excited to try it. #News,2025-07-09T07:15:54Z,Nagpur,Neutral,YouTube,News
+631,The Big Data ecosystem in Thiruvananthapuram is okay.,2025-07-09T22:02:45Z,Thiruvananthapuram,Neutral,Reddit,Real Estate
+632,@BigBasket launched new Surface! Excited to try it. #Lifestyle,2025-07-10T03:17:20Z,Nashik,Positive,Telegram,Lifestyle
+633,Auto rickshaw fares in Thane are terrible.,2025-07-10T09:29:12Z,Thane,Negative,Reddit,Transportation
+634,Social awareness campaigns in Agra are phenomenal.,2025-07-10T10:00:00Z,Agra,Positive,WhatsApp,Social
+635,Monsoon arrives in Thane! Relief from heat. #Monsoon,2025-07-10T17:03:00Z,Thane,Positive,Facebook,Weather
+636,@Swiggy's health app is unacceptable! #HealthTech,2025-07-10T22:20:02Z,Varanasi,Negative,Facebook,Healthcare
+637,Climate in Dhanbad is amazing this season.,2025-07-10T23:28:38Z,Dhanbad,Positive,Telegram,Weather
+638,Banking services in Kochi are phenomenal.,2025-07-11T21:19:52Z,Kochi,Positive,LinkedIn,Finance
+639,Stock trading on @Netflix is poor.,2025-07-12T02:50:53Z,Bhubaneswar,Negative,Telegram,Finance
+640,Pollution levels in Kota are fantastic. #Environment,2025-07-12T14:04:04Z,Kota,Positive,Instagram,Environment
+641,Co-working spaces in Coimbatore are brilliant.,2025-07-13T01:44:08Z,Coimbatore,Positive,Twitter,Business
+642,Cloud computing adoption in Vijayawada is superb.,2025-07-13T11:21:09Z,Vijayawada,Positive,WhatsApp,Lifestyle
+643,Metro services in Vadodara are wonderful. @HyderabadMetro,2025-07-13T12:57:27Z,Vadodara,Positive,YouTube,Infrastructure
+644,Samsung's AI features are awful. #News,2025-07-13T13:53:47Z,Nashik,Negative,Telegram,News
+645,@Google's health app is fantastic! #HealthTech,2025-07-13T22:32:36Z,Mumbai,Positive,Facebook,Healthcare
+646,Sports infrastructure in Delhi is phenomenal.,2025-07-14T18:16:29Z,Delhi,Positive,LinkedIn,Sports
+647,@Blinkit's bike taxi service is poor.,2025-07-14T19:59:22Z,Kanpur,Negative,Facebook,Transportation
+648,@Spotify's exam prep courses are normal!,2025-07-14T22:25:04Z,Srinagar,Neutral,Twitter,Education
+649,Smart city project in Faridabad is amazing.,2025-07-15T14:29:21Z,Faridabad,Positive,YouTube,Politics
+650,@Virat Kohli's century today was amazing! #Cricket,2025-07-15T20:52:37Z,Allahabad,Positive,Reddit,Sports
+651,Road damage in Whitefield area. @HyderabadMetro please help!,2025-07-15T22:23:39Z,Dhanbad,Positive,YouTube,Infrastructure
+652,Parking facilities in Faridabad are typical.,2025-07-16T01:14:04Z,Faridabad,Neutral,Instagram,Transportation
+653,EV charging infrastructure in Agra is outstanding.,2025-07-16T01:18:47Z,Agra,Positive,YouTube,Automotive
+654,Environmental awareness in Vijayawada is awesome.,2025-07-16T07:44:39Z,Vijayawada,Positive,Twitter,Environment
+655,@Zee5's exam prep courses are normal!,2025-07-16T20:53:26Z,Chennai,Neutral,LinkedIn,Education
+656,Financial literacy programs in Srinagar are superb.,2025-07-17T16:20:26Z,Srinagar,Positive,Instagram,Finance
+657,Hospital facilities in Bengaluru are phenomenal.,2025-07-18T02:36:19Z,Bengaluru,Positive,Twitter,Healthcare
+658,The new Blockchain update is okay! #Technology,2025-07-18T03:39:02Z,Ludhiana,Neutral,WhatsApp,Real Estate
+659,Water supply issues in Connaught Place. #Nagpur,2025-07-18T04:08:22Z,Nagpur,Negative,Twitter,Infrastructure
+660,@Google's payment app is bad! #Fintech,2025-07-18T09:35:45Z,Kanpur,Negative,WhatsApp,Finance
+661,Job market in Kolkata is worst.,2025-07-18T18:59:56Z,Kolkata,Negative,Twitter,Business
+662,The new AI update is average! #Technology,2025-07-19T01:14:52Z,Surat,Neutral,LinkedIn,Technology
+663,Cloud computing adoption in Coimbatore is awful.,2025-07-19T02:57:26Z,Coimbatore,Negative,Instagram,Fashion
+664,@PhonePe ride in Kochi was decent. #RideSharing,2025-07-19T13:45:18Z,Kochi,Neutral,Twitter,Transportation
+665,Rohit Sharma's new expressway is okay. #Cinema,2025-07-20T21:28:02Z,Bhubaneswar,Neutral,Instagram,Entertainment
+666,Stock trading on @Netflix is regular.,2025-07-21T18:11:22Z,Guwahati,Neutral,Facebook,Finance
+667,New policy announcement in Bhubaneswar. impressive for citizens.,2025-07-22T16:58:04Z,Bhubaneswar,Positive,YouTube,Politics
+668,New school infrastructure in Ludhiana is brilliant.,2025-07-22T17:46:13Z,Ludhiana,Positive,Facebook,Education
+669,@Netflix's app interface is average.,2025-07-23T04:16:53Z,Jodhpur,Neutral,Telegram,E-commerce
+670,@Hotstar's investment options are worst.,2025-07-23T14:32:37Z,Chennai,Negative,Instagram,Finance
+671,IIT Ahmedabad campus is frustrating! #Education,2025-07-23T16:53:27Z,Ahmedabad,Negative,Twitter,Education
+672,Cloud computing adoption in Indore is awesome.,2025-07-23T21:18:50Z,Indore,Positive,Telegram,Fashion
+673,Dunzo's AI features are average. #Technology,2025-07-23T23:04:27Z,Goa,Neutral,Reddit,Technology
+674,Volunteer programs in Meerut are pathetic.,2025-07-24T01:48:36Z,Meerut,Negative,Telegram,Social
+675,New policy announcement in Faridabad. standard for citizens.,2025-07-24T19:56:35Z,Faridabad,Neutral,Instagram,Politics
+676,@Samsung's app interface is average.,2025-07-24T20:18:17Z,Patna,Neutral,Telegram,E-commerce
+677,@Netflix ride in Aurangabad was average. #RideSharing,2025-07-24T21:56:04Z,Aurangabad,Neutral,Instagram,Transportation
+678,Return policy of @Amazon is wonderful.,2025-07-25T09:02:25Z,Aurangabad,Positive,Telegram,E-commerce
+679,Ordered from @Microsoft. average experience!,2025-07-26T04:05:35Z,Mysuru,Neutral,Twitter,E-commerce
+680,Product quality from @Google is average.,2025-07-26T13:30:46Z,Kota,Neutral,YouTube,E-commerce
+681,Thunderstorm alert in Jodhpur. #WeatherUpdate,2025-07-27T10:10:28Z,Jodhpur,Negative,Reddit,Weather
+682,Developers in Madurai are building amazing Cybersecurity solutions.,2025-07-27T14:33:49Z,Madurai,Positive,YouTube,Celebrity
+683,Parking facilities in Madurai are excellent.,2025-07-28T06:12:40Z,Madurai,Positive,WhatsApp,Transportation
+684,Food delivery from @Ola was impressive.,2025-07-29T05:10:17Z,Amritsar,Positive,YouTube,Food
+685,IIT Ahmedabad campus is phenomenal! #Education,2025-07-29T13:37:06Z,Ahmedabad,Positive,Twitter,Education
+686,Banking services in Thiruvananthapuram are perfect.,2025-07-30T10:33:22Z,Thiruvananthapuram,Positive,Instagram,Finance
+687,5G speed in Kolkata is finally pathetic! @ISRO,2025-07-30T18:31:55Z,Kolkata,Negative,Instagram,Technology
+688,Mental health support in Bengaluru is perfect.,2025-07-31T03:18:19Z,Bengaluru,Positive,WhatsApp,Healthcare
+689,@Netflix's new feature update is awesome. #TechNews,2025-07-31T04:09:38Z,Kochi,Positive,WhatsApp,Celebrity
+690,Climate action in Meerut is frustrating.,2025-07-31T11:21:27Z,Meerut,Negative,Reddit,Environment
+691,@BigBasket's app interface is awful.,2025-07-31T20:05:53Z,Jabalpur,Negative,WhatsApp,E-commerce
+692,Community support in Jaipur is terrible.,2025-07-31T23:08:13Z,Jaipur,Negative,Instagram,Social
+693,Eid special events in Thiruvananthapuram are superb.,2025-08-01T03:21:01Z,Thiruvananthapuram,Positive,Reddit,Festival
+694,@Dunzo's delivery service is excellent. #OnlineShopping,2025-08-01T11:46:33Z,Faridabad,Positive,Facebook,E-commerce
+695,Infrastructure spending in Goa is normal.,2025-08-01T18:48:54Z,Goa,Neutral,WhatsApp,Politics
+696,Power outage in Electronic City since morning. @MCD,2025-08-02T08:32:26Z,Allahabad,Neutral,YouTube,Infrastructure
+697,@Flipkart's new feature update is perfect. #TechNews,2025-08-02T09:01:44Z,Nagpur,Positive,Reddit,Culture
+698,@Microsoft's new feature update is unacceptable. #TechNews,2025-08-02T20:10:31Z,Howrah,Negative,Instagram,Culture
+699,The IoT ecosystem in Ghaziabad is awful.,2025-08-04T00:45:12Z,Ghaziabad,Negative,Reddit,Fashion
+700,Pleasant weather in Gwalior today. Perfect for outing!,2025-08-04T04:42:30Z,Gwalior,Positive,YouTube,Weather
+701,Exploring Nagpur this weekend. So poor!,2025-08-05T00:14:49Z,Nagpur,Negative,Facebook,Tourism
+702,@Blinkit's new feature update is perfect. #TechNews,2025-08-05T19:13:44Z,Rajkot,Positive,Telegram,Lifestyle
+703,Google's AI features are great. #Lifestyle,2025-08-06T00:28:45Z,Jabalpur,Positive,YouTube,Lifestyle
+704,The new Machine Learning update is frustrating! #Technology,2025-08-06T03:53:56Z,Goa,Negative,Telegram,Technology
+705,Delivery in Nagpur by @BigBasket was unacceptable.,2025-08-06T05:09:29Z,Nagpur,Negative,Twitter,E-commerce
+706,The architecture of Lotus Temple is awesome!,2025-08-06T06:14:51Z,Faridabad,Positive,LinkedIn,Tourism
+707,Salman Khan's new flyover is average. #Cinema,2025-08-06T08:45:05Z,Madurai,Neutral,Telegram,Entertainment
+708,temple in Srinagar is perfect for photography!,2025-08-07T04:38:38Z,Srinagar,Negative,Facebook,Tourism
+709,Road conditions in Bandra are frustrating. #Kota,2025-08-07T09:23:41Z,Kota,Negative,Telegram,Infrastructure
+710,Social awareness campaigns in Howrah are fantastic.,2025-08-07T10:28:03Z,Howrah,Positive,Instagram,Social
+711,The new 5G update is worst! #Technology,2025-08-08T05:40:11Z,Hyderabad,Negative,WhatsApp,Fashion
+712,Sports infrastructure in Chennai is fantastic.,2025-08-08T08:20:42Z,Chennai,Positive,LinkedIn,Sports
+713,The 5G ecosystem in Dehradun is typical.,2025-08-09T00:17:37Z,Dehradun,Neutral,Telegram,Culture
+714,The park in Allahabad is perfect! Must visit. #Travel,2025-08-09T04:10:38Z,Allahabad,Positive,LinkedIn,Tourism
+715,Pleasant weather in Indore today. Perfect for outing!,2025-08-09T04:22:55Z,Indore,Negative,WhatsApp,Weather
+716,Kabaddi match in Gwalior was superb! #ProKabaddi,2025-08-09T08:06:33Z,Gwalior,Positive,LinkedIn,Sports
+717,Happy Eid from Dehradun! #Festivities,2025-08-09T08:44:40Z,Dehradun,Neutral,Reddit,Festival
+718,Netflix's AI features are awful. #Fashion,2025-08-09T10:59:10Z,Ludhiana,Negative,Twitter,Fashion
+719,Binge-watching Mirzapur on @YouTube. Totally disappointing!,2025-08-09T11:57:55Z,Visakhapatnam,Negative,Facebook,Entertainment
+720,@Amazon Prime's exam prep courses are average!,2025-08-09T19:08:16Z,Allahabad,Neutral,YouTube,Education
+721,Test drove Nexon EV today. Performance is superb!,2025-08-09T22:27:52Z,Indore,Positive,Reddit,Automotive
+722,Sports infrastructure in Hyderabad is disappointing.,2025-08-11T01:03:39Z,Hyderabad,Negative,WhatsApp,Sports
+723,Air quality in Ranchi is outstanding today. AQI: 417,2025-08-11T02:33:39Z,Ranchi,Positive,Facebook,Environment
+724,Developers in Delhi are building amazing Quantum Computing solutions.,2025-08-11T04:59:24Z,Delhi,Neutral,Facebook,Celebrity
+725,@Jio's customer service is superb.,2025-08-11T10:54:06Z,Dhanbad,Positive,YouTube,E-commerce
+726,@Tata's new feature update is superb. #TechNews,2025-08-11T18:38:05Z,Mysuru,Positive,YouTube,Real Estate
+727,Last-mile connectivity in Chandigarh needs improvement.,2025-08-12T03:31:27Z,Chandigarh,Negative,Twitter,Transportation
+728,@Google's health app is frustrating! #HealthTech,2025-08-13T05:53:16Z,Meerut,Negative,Twitter,Healthcare
+729,Just upgraded to Galaxy. Performance is decent!,2025-08-13T20:10:16Z,Chennai,Neutral,YouTube,Technology
+730,Developers in Ranchi are building amazing IoT solutions.,2025-08-14T16:54:02Z,Ranchi,Positive,Instagram,Technology
+731,Kabaddi match in Kota was superb! #ProKabaddi,2025-08-14T19:50:17Z,Kota,Positive,Reddit,Sports
+732,@Zomato launched new Android! Excited to try it. #RealEstate,2025-08-14T21:32:00Z,Kota,Neutral,YouTube,Real Estate
+733,The new Machine Learning update is worst! #Technology,2025-08-15T07:51:33Z,Chandigarh,Negative,Facebook,News
+734,Auto rickshaw fares in Goa are terrible.,2025-08-16T00:33:31Z,Goa,Negative,Facebook,Transportation
+735,@Google ride in Ghaziabad was pathetic. #RideSharing,2025-08-16T03:00:16Z,Ghaziabad,Negative,WhatsApp,Transportation
+736,@BigBasket's health app is perfect! #HealthTech,2025-08-16T06:26:45Z,Chennai,Positive,LinkedIn,Healthcare
+737,Just upgraded to Windows. Performance is amazing!,2025-08-16T08:01:39Z,Faridabad,Positive,Facebook,Fashion
+738,Educational institutions in Kochi are worst.,2025-08-16T09:14:59Z,Kochi,Negative,Twitter,Education
+739,The new 5G update is worst! #Technology,2025-08-16T12:52:50Z,Kanpur,Negative,Facebook,Real Estate
+740,Kabaddi match in Kanpur was normal! #ProKabaddi,2025-08-16T17:43:42Z,Kanpur,Neutral,Twitter,Sports
+741,Test drove Nexon EV today. Performance is normal!,2025-08-17T19:06:59Z,Chennai,Neutral,LinkedIn,Automotive
+742,The burger in Meerut is unacceptable! Must try. #Food,2025-08-18T08:57:46Z,Meerut,Negative,Instagram,Food
+743,Digital education in Ludhiana is horrible.,2025-08-18T11:04:27Z,Ludhiana,Negative,Reddit,Education
+744,Test drove Swift today. Performance is standard!,2025-08-18T15:31:23Z,Mumbai,Neutral,Telegram,Automotive
+745,Markets crowded for Durga Puja shopping in Raipur.,2025-08-18T21:01:45Z,Raipur,Positive,Facebook,Festival
+746,Political rally in Nashik today. Large crowd gathered.,2025-08-19T07:15:10Z,Nashik,Positive,Instagram,Politics
+747,Hidden gems of Lucknow are worth discovering!,2025-08-19T11:22:42Z,Lucknow,Neutral,Telegram,Tourism
+748,The park in Lucknow is awesome! Must visit. #Travel,2025-08-19T15:22:01Z,Lucknow,Positive,YouTube,Tourism
+749,@Zepto opened new office in Srinagar. #Business,2025-08-19T22:52:07Z,Srinagar,Neutral,LinkedIn,Business
+750,@Amazon launched new Windows! Excited to try it. #News,2025-08-20T03:58:03Z,Ludhiana,Negative,Telegram,News
+751,5G speed in Vadodara is finally poor! @Apple,2025-08-20T04:00:53Z,Vadodara,Negative,Telegram,Technology
+752,Tesla's AI features are awful. #Lifestyle,2025-08-20T04:29:27Z,Jabalpur,Negative,Facebook,Lifestyle
+753,Social services in Coimbatore are decent.,2025-08-20T15:33:25Z,Coimbatore,Neutral,LinkedIn,Social
+754,Higher education opportunities in Goa are pathetic.,2025-08-20T16:02:44Z,Goa,Negative,Reddit,Education
+755,Traditional Durga Puja celebrations in Ahmedabad.,2025-08-20T16:12:36Z,Ahmedabad,Neutral,Telegram,Festival
+756,The new flyover in Indore is wonderful!,2025-08-20T19:20:41Z,Indore,Positive,Reddit,Infrastructure
+757,Climate in Visakhapatnam is phenomenal this season.,2025-08-20T23:07:17Z,Visakhapatnam,Positive,LinkedIn,Weather
+758,The AR/VR ecosystem in Chandigarh is superb.,2025-08-21T11:21:40Z,Chandigarh,Positive,Reddit,Celebrity
+759,Two-wheeler sales in Guwahati are terrible.,2025-08-21T11:51:42Z,Guwahati,Negative,Twitter,Automotive
+760,Pollution levels in Kolkata are terrible. #Environment,2025-08-21T15:18:46Z,Kolkata,Negative,Reddit,Environment
+761,Social initiatives in Srinagar are unacceptable.,2025-08-21T21:38:30Z,Srinagar,Negative,Instagram,Social
+762,Onam special events in Visakhapatnam are worst.,2025-08-21T21:40:00Z,Visakhapatnam,Negative,Facebook,Festival
+763,Job market in Kolkata is outstanding.,2025-08-21T23:46:50Z,Kolkata,Positive,Twitter,Business
+764,Waterlogging in Hitech City area. @BengaluruMetro please help!,2025-08-22T10:33:28Z,Rajkot,Neutral,Twitter,Infrastructure
+765,Governance in Mumbai needs improvement.,2025-08-23T00:05:56Z,Mumbai,Neutral,LinkedIn,Politics
+766,Goa tourism is wonderful. Highly recommend visiting!,2025-08-23T00:10:32Z,Goa,Positive,Facebook,Tourism
+767,Durga Puja preparations in full swing in Bhubaneswar.,2025-08-23T00:23:22Z,Bhubaneswar,Neutral,YouTube,Festival
+768,Traffic jam near Koramangala in Ranchi. #Infrastructure,2025-08-23T01:24:02Z,Ranchi,Positive,Facebook,Infrastructure
+769,Concert in Indore was pathetic! #Entertainment,2025-08-23T04:24:51Z,Indore,Negative,Telegram,Entertainment
+770,Attended Cybersecurity conference in Vijayawada. awesome experience!,2025-08-23T07:32:57Z,Vijayawada,Positive,LinkedIn,Technology
+771,Electric vehicles in Visakhapatnam are becoming standard.,2025-08-23T11:27:50Z,Visakhapatnam,Neutral,LinkedIn,Automotive
+772,The Badminton championship in Visakhapatnam is pathetic!,2025-08-23T15:40:12Z,Visakhapatnam,Negative,Reddit,Sports
+773,@Apple's customer service is terrible.,2025-08-24T01:43:10Z,Indore,Negative,WhatsApp,E-commerce
+774,Water conservation efforts in Mumbai are normal.,2025-08-24T03:16:38Z,Mumbai,Neutral,LinkedIn,Environment
+775,Street food at Connaught Place in Aurangabad is normal!,2025-08-24T06:26:45Z,Aurangabad,Neutral,Reddit,Food
+776,@Amazon launched new Pixel! Excited to try it. #Celebrity,2025-08-24T07:05:11Z,Goa,Positive,Twitter,Celebrity
+777,Developers in Bhubaneswar are building amazing Quantum Computing solutions.,2025-08-24T15:39:09Z,Bhubaneswar,Negative,Telegram,News
+778,The AR/VR ecosystem in Surat is outstanding.,2025-08-24T18:05:31Z,Surat,Positive,Twitter,Technology
+779,@Netflix's new feature update is average. #TechNews,2025-08-25T03:39:24Z,Mumbai,Neutral,LinkedIn,Technology
+780,@Paytm's new feature update is awesome. #TechNews,2025-08-25T08:29:16Z,Jabalpur,Positive,Facebook,Technology
+781,The 5G ecosystem in Indore is superb.,2025-08-25T20:28:04Z,Indore,Positive,Twitter,Culture
+782,@Rohit Sharma's century today was worst! #Cricket,2025-08-26T18:35:02Z,Aurangabad,Negative,WhatsApp,Sports
+783,5G speed in Mumbai is finally frustrating! @Google,2025-08-26T20:53:02Z,Mumbai,Negative,Reddit,Technology
+784,Match at Chepauk in Chandigarh was wonderful! #Kabaddi,2025-08-27T05:09:24Z,Chandigarh,Positive,Facebook,Sports
+785,The new Big Data update is regular! #Technology,2025-08-27T13:50:33Z,Ranchi,Neutral,YouTube,Lifestyle
+786,@SonyLIV's exam prep courses are okay!,2025-08-28T09:45:18Z,Howrah,Neutral,Telegram,Education
+787,New policy announcement in Allahabad. standard for citizens.,2025-08-28T10:14:30Z,Allahabad,Neutral,WhatsApp,Politics
+788,Just upgraded to Pixel. Performance is great!,2025-08-28T10:36:46Z,Ahmedabad,Positive,YouTube,Technology
+789,Public transport in Madurai is poor.,2025-08-28T15:09:39Z,Madurai,Negative,Telegram,Transportation
+790,Educational institutions in Amritsar are okay.,2025-08-28T19:59:52Z,Amritsar,Neutral,Telegram,Education
+791,Developers in Dhanbad are building amazing 5G solutions.,2025-08-29T01:50:30Z,Dhanbad,Negative,Reddit,Lifestyle
+792,@Reliance's new feature update is worst. #TechNews,2025-08-30T06:09:04Z,Jodhpur,Negative,Instagram,News
+793,Power outage in Bandra since morning. @DelhiMetro,2025-08-30T15:11:20Z,Thiruvananthapuram,Neutral,YouTube,Infrastructure
+794,@Airtel opened new office in Srinagar. #Business,2025-08-30T22:51:54Z,Srinagar,Positive,Instagram,Business
+795,BigBasket's AI features are great. #Technology,2025-08-30T23:21:30Z,Meerut,Positive,Telegram,Technology
+796,The Badminton championship in Patna is superb!,2025-08-31T05:15:47Z,Patna,Positive,YouTube,Sports
+797,Online doctor consultation via @Hotstar was normal.,2025-08-31T07:06:26Z,Chennai,Neutral,Instagram,Healthcare
+798,Startup ecosystem in Madurai is fantastic! #StartupIndia,2025-08-31T09:08:50Z,Madurai,Positive,WhatsApp,Business
+799,@ISRO's new feature update is poor. #TechNews,2025-08-31T19:44:23Z,Vadodara,Negative,Reddit,Technology
+800,Cloud computing adoption in Chennai is awesome.,2025-09-01T00:39:48Z,Chennai,Positive,Twitter,Lifestyle
+801,Public services in Ahmedabad are awesome.,2025-09-01T01:18:44Z,Ahmedabad,Positive,WhatsApp,Politics
+802,Digital payments in Agra are bad.,2025-09-01T03:15:55Z,Agra,Negative,Twitter,Finance
+803,Delivery in Agra by @Ola was fantastic.,2025-09-01T05:32:05Z,Agra,Positive,WhatsApp,E-commerce
+804,The new IoT update is awful! #Technology,2025-09-01T06:44:39Z,Gwalior,Negative,Facebook,Culture
+805,Youth programs in Delhi are perfect.,2025-09-01T13:28:09Z,Delhi,Positive,LinkedIn,Social
+806,New school infrastructure in Hyderabad is awesome.,2025-09-01T15:11:18Z,Hyderabad,Positive,LinkedIn,Education
+807,The museum in Rajkot is normal! Must visit. #Travel,2025-09-01T22:30:48Z,Rajkot,Neutral,LinkedIn,Tourism
+808,Social initiatives in Nashik are unacceptable.,2025-09-02T03:38:13Z,Nashik,Negative,Instagram,Social
+809,Developers in Jaipur are building amazing Quantum Computing solutions.,2025-09-02T11:01:14Z,Jaipur,Neutral,Telegram,News
+810,@PhonePe's new feature update is average. #TechNews,2025-09-02T16:31:29Z,Thane,Neutral,Telegram,News
+811,Match at Chepauk in Mysuru was disappointing! #Kabaddi,2025-09-03T00:07:55Z,Mysuru,Negative,WhatsApp,Sports
+812,Just upgraded to Galaxy. Performance is perfect!,2025-09-03T02:44:25Z,Hyderabad,Positive,Telegram,Technology
+813,Street food at Connaught Place in Coimbatore is wonderful!,2025-09-03T07:52:25Z,Coimbatore,Positive,LinkedIn,Food
+814,Zepto's AI features are pathetic. #RealEstate,2025-09-03T08:01:14Z,Ahmedabad,Negative,Telegram,Real Estate
+815,Amazing samosa at Bukhara in Mysuru! #Foodie,2025-09-03T11:55:18Z,Mysuru,Positive,Facebook,Food
+816,Just upgraded to MacBook. Performance is outstanding!,2025-09-03T21:31:48Z,Goa,Positive,LinkedIn,Culture
+817,Fuel prices in Visakhapatnam are worst.,2025-09-03T22:23:20Z,Visakhapatnam,Negative,Instagram,Automotive
+818,Paradise in Kanpur serves great momos.,2025-09-04T15:02:06Z,Kanpur,Positive,YouTube,Food
+819,Test drove Nexon EV today. Performance is brilliant!,2025-09-05T08:30:00Z,Chandigarh,Positive,LinkedIn,Automotive
+820,Movie theaters in Jodhpur have disappointing facilities.,2025-09-05T10:01:31Z,Jodhpur,Negative,Instagram,Entertainment
+821,Traffic congestion in Dehradun is regular.,2025-09-06T01:05:25Z,Dehradun,Neutral,YouTube,Automotive
+822,@Jio launched new iPhone! Excited to try it. #Lifestyle,2025-09-06T05:47:28Z,Aurangabad,Neutral,LinkedIn,Lifestyle
+823,Amazing pav bhaji at Indian Accent in Ranchi! #Foodie,2025-09-06T22:01:24Z,Ranchi,Positive,Reddit,Food
+824,@SonyLIV's investment options are outstanding.,2025-09-07T15:12:27Z,Meerut,Positive,Facebook,Finance
+825,Medical services at Apollo Hospital are awful.,2025-09-07T17:19:31Z,Bengaluru,Negative,WhatsApp,Healthcare
+826,Last-mile connectivity in Varanasi needs improvement.,2025-09-08T03:07:50Z,Varanasi,Negative,Telegram,Transportation
+827,The IoT ecosystem in Raipur is typical.,2025-09-08T17:37:52Z,Raipur,Neutral,Reddit,Celebrity
+828,Investment climate in Kochi is impressive.,2025-09-10T18:40:59Z,Kochi,Positive,LinkedIn,Business
+829,Social services in Kanpur are unacceptable.,2025-09-11T09:29:49Z,Kanpur,Negative,Facebook,Social
+830,Visited Golden Temple in Nagpur. Absolutely frustrating! #Tourism,2025-09-11T10:04:00Z,Nagpur,Negative,WhatsApp,Tourism
+831,The Kabaddi championship in Srinagar is awesome!,2025-09-11T14:15:34Z,Srinagar,Positive,Facebook,Sports
+832,Flipkart's AI features are pathetic. #News,2025-09-11T15:22:58Z,Aurangabad,Negative,Telegram,News
+833,@Zee5's exam prep courses are superb!,2025-09-11T16:01:13Z,Aurangabad,Positive,Reddit,Education
+834,Solar energy adoption in Aurangabad is impressive.,2025-09-12T06:26:24Z,Aurangabad,Positive,WhatsApp,Environment
+835,5G speed in Ghaziabad is finally poor! @Jio,2025-09-12T07:50:58Z,Ghaziabad,Negative,Reddit,Technology
+836,@Spotify's investment options are average.,2025-09-12T08:23:17Z,Ahmedabad,Neutral,LinkedIn,Finance
+837,Credit card from @Airtel has okay benefits.,2025-09-12T09:00:28Z,Ghaziabad,Neutral,Twitter,Finance
+838,Traffic congestion in Rajkot is unacceptable.,2025-09-12T09:51:20Z,Rajkot,Negative,Instagram,Automotive
+839,@Flipkart's new feature update is awesome. #TechNews,2025-09-12T12:08:24Z,Mysuru,Positive,Facebook,News
+840,Tesla's AI features are disappointing. #Fashion,2025-09-14T20:15:09Z,Visakhapatnam,Negative,Reddit,Fashion
+841,Hidden gems of Visakhapatnam are worth discovering!,2025-09-15T01:12:47Z,Visakhapatnam,Neutral,WhatsApp,Tourism
+842,Co-working spaces in Pune are awesome.,2025-09-15T09:42:06Z,Pune,Positive,Reddit,Business
+843,Amazing burger at Indian Accent in Jabalpur! #Foodie,2025-09-15T19:59:00Z,Jabalpur,Positive,LinkedIn,Food
+844,@Samsung launched new Galaxy! Excited to try it. #News,2025-09-15T20:21:18Z,Srinagar,Negative,Instagram,News
+845,EV charging infrastructure in Vadodara is amazing.,2025-09-17T14:52:52Z,Vadodara,Positive,Facebook,Automotive
+846,Attended 5G conference in Lucknow. fantastic experience!,2025-09-17T17:47:00Z,Lucknow,Positive,YouTube,Lifestyle
+847,The museum in Raipur is regular! Must visit. #Travel,2025-09-18T06:47:29Z,Raipur,Neutral,YouTube,Tourism
+848,Just upgraded to Windows. Performance is disappointing!,2025-09-18T18:02:23Z,Jaipur,Negative,Telegram,Culture
+849,Airport connectivity in Coimbatore is amazing.,2025-09-18T19:46:37Z,Coimbatore,Positive,Telegram,Transportation
+850,Emergency services in Ahmedabad are average.,2025-09-18T21:31:15Z,Ahmedabad,Neutral,YouTube,Healthcare
+851,Airtel's AI features are fantastic. #RealEstate,2025-09-19T12:57:50Z,Ghaziabad,Positive,Instagram,Real Estate
+852,Traditional Diwali celebrations in Ahmedabad.,2025-09-20T04:06:37Z,Ahmedabad,Negative,Facebook,Festival
+853,Aamir Khan's new mall is impressive. #Cinema,2025-09-20T05:04:21Z,Coimbatore,Positive,WhatsApp,Entertainment
+854,Weekend trip to Bengaluru. average experience! #Travel,2025-09-20T16:18:07Z,Bengaluru,Neutral,LinkedIn,Tourism
+855,Attended Machine Learning conference in Aurangabad. pathetic experience!,2025-09-20T20:31:05Z,Aurangabad,Negative,Facebook,Technology
+856,Food delivery from @Reliance was unacceptable.,2025-09-20T21:29:17Z,Jodhpur,Negative,Reddit,Food
+857,The new Cloud update is average! #Technology,2025-09-21T07:09:29Z,Varanasi,Neutral,Instagram,Culture
+858,@BigBasket launched new iPad! Excited to try it. #Lifestyle,2025-09-21T20:47:18Z,Mumbai,Negative,Reddit,Lifestyle
+859,Climate action in Raipur is decent.,2025-09-22T10:20:44Z,Raipur,Neutral,LinkedIn,Environment
+860,5G speed in Jabalpur is finally bad! @Uber,2025-09-23T02:34:25Z,Jabalpur,Negative,Reddit,Culture
+861,Durga Puja preparations in full swing in Coimbatore.,2025-09-23T04:37:48Z,Coimbatore,Positive,Facebook,Festival
+862,Developers in Chandigarh are building amazing AR/VR solutions.,2025-09-23T06:36:50Z,Chandigarh,Neutral,YouTube,Celebrity
+863,Road conditions in Connaught Place are great. #Vijayawada,2025-09-23T18:14:05Z,Vijayawada,Positive,Facebook,Infrastructure
+864,Educational institutions in Patna are awesome.,2025-09-23T22:00:07Z,Patna,Positive,Facebook,Education
+865,Climate in Goa is average this season.,2025-09-24T00:28:25Z,Goa,Neutral,WhatsApp,Weather
+866,Just upgraded to iPhone. Performance is frustrating!,2025-09-24T13:39:28Z,Pune,Negative,Instagram,Lifestyle
+867,Developers in Ludhiana are building amazing Machine Learning solutions.,2025-09-24T23:48:44Z,Ludhiana,Negative,Reddit,News
+868,5G speed in Meerut is finally decent! @ISRO,2025-09-25T01:35:36Z,Meerut,Neutral,Twitter,Technology
+869,Cloud computing adoption in Bhopal is typical.,2025-09-25T08:40:35Z,Bhopal,Neutral,LinkedIn,Real Estate
+870,Parking in Coimbatore is fantastic.,2025-09-25T22:16:37Z,Coimbatore,Positive,YouTube,Automotive
+871,Charity event in Raipur was okay!,2025-09-26T00:03:19Z,Raipur,Neutral,WhatsApp,Social
+872,@Samsung's health app is phenomenal! #HealthTech,2025-09-26T10:22:31Z,Ranchi,Positive,LinkedIn,Healthcare
+873,Charity event in Vadodara was brilliant!,2025-09-27T09:11:28Z,Vadodara,Positive,Facebook,Social
+874,Stadium facilities in Bengaluru are typical.,2025-09-28T00:49:35Z,Bengaluru,Neutral,YouTube,Sports
+875,Heatwave in Bengaluru. Stay hydrated! #Winter,2025-09-28T02:09:32Z,Bengaluru,Positive,Instagram,Weather
+876,New school infrastructure in Lucknow is wonderful.,2025-09-28T03:19:59Z,Lucknow,Positive,WhatsApp,Education
+877,Banking services in Agra are bad.,2025-09-28T10:20:53Z,Agra,Negative,Facebook,Finance
+878,@Google's service center in Srinagar is typical.,2025-09-28T13:14:07Z,Srinagar,Neutral,Facebook,Automotive
+879,Vaccination drive in Ludhiana is fantastic.,2025-09-28T22:43:17Z,Ludhiana,Positive,Twitter,Healthcare
+880,Just upgraded to Surface. Performance is phenomenal!,2025-09-29T15:01:36Z,Dehradun,Positive,Facebook,Real Estate
+881,@Google's app interface is impressive.,2025-09-29T23:21:07Z,Hyderabad,Positive,YouTube,E-commerce
+882,The new Cloud update is amazing! #Technology,2025-09-30T02:37:52Z,Howrah,Positive,Instagram,Culture
+883,The new Machine Learning update is unacceptable! #Technology,2025-09-30T02:49:04Z,Varanasi,Negative,Telegram,News
+884,Development projects in Rajkot are regular.,2025-09-30T04:40:48Z,Rajkot,Neutral,YouTube,Politics
+885,New school infrastructure in Indore is frustrating.,2025-09-30T09:36:59Z,Indore,Negative,WhatsApp,Education
+886,The new metro in Kota is horrible!,2025-09-30T10:00:34Z,Kota,Negative,Twitter,Infrastructure
+887,New school infrastructure in Jaipur is impressive.,2025-09-30T12:51:39Z,Jaipur,Positive,Telegram,Education
+888,The restaurant scene in Delhi is frustrating.,2025-09-30T22:08:48Z,Delhi,Negative,Telegram,Food
+889,Heatwave in Mysuru. Stay hydrated! #Winter,2025-10-01T07:01:42Z,Mysuru,Neutral,Twitter,Weather
+890,Music festival in Rajkot was excellent! #Live,2025-10-01T12:15:07Z,Rajkot,Positive,Facebook,Entertainment
+891,@Tata opened new office in Delhi. #Business,2025-10-02T15:15:52Z,Delhi,Neutral,Facebook,Business
+892,Entrepreneurship programs in Nashik are amazing.,2025-10-02T21:30:34Z,Nashik,Positive,Facebook,Business
+893,Startup ecosystem in Visakhapatnam is normal! #StartupIndia,2025-10-02T22:26:19Z,Visakhapatnam,Neutral,Reddit,Business
+894,Pleasant weather in Goa today. Perfect for outing!,2025-10-02T23:53:17Z,Goa,Positive,Instagram,Weather
+895,The Quantum Computing ecosystem in Aurangabad is outstanding.,2025-10-03T00:37:45Z,Aurangabad,Positive,Instagram,Celebrity
+896,Street food at Connaught Place in Srinagar is disappointing!,2025-10-03T01:27:00Z,Srinagar,Negative,Facebook,Food
+897,@Dunzo's health app is poor! #HealthTech,2025-10-03T11:57:52Z,Nagpur,Negative,Twitter,Healthcare
+898,Extreme weather conditions in Chandigarh. Be cautious!,2025-10-03T13:16:12Z,Chandigarh,Negative,Twitter,Weather
+899,Business infrastructure in Gwalior is okay.,2025-10-03T17:53:24Z,Gwalior,Neutral,Instagram,Business
+900,Cloud computing adoption in Dhanbad is disappointing.,2025-10-04T07:45:59Z,Dhanbad,Negative,Telegram,Real Estate
+901,Digital education in Ranchi is perfect.,2025-10-05T01:28:08Z,Ranchi,Positive,WhatsApp,Education
+902,Emergency services in Mysuru are fantastic.,2025-10-05T05:50:27Z,Mysuru,Positive,Twitter,Healthcare
+903,Monsoon arrives in Gwalior! Relief from heat. #Monsoon,2025-10-05T08:33:48Z,Gwalior,Positive,Facebook,Weather
+904,IIT Patna campus is fantastic! #Education,2025-10-06T02:26:12Z,Patna,Positive,YouTube,Education
+905,The architecture of Hawa Mahal is superb!,2025-10-06T06:31:38Z,Mysuru,Positive,LinkedIn,Tourism
+906,@YouTube's courses are brilliant! #EdTech,2025-10-06T12:57:35Z,Howrah,Positive,YouTube,Education
+907,Startup ecosystem in Surat is horrible! #StartupIndia,2025-10-06T18:17:24Z,Surat,Negative,WhatsApp,Business
+908,@YouTube's exam prep courses are average!,2025-10-06T21:07:40Z,Ghaziabad,Neutral,LinkedIn,Education
+909,Markets crowded for Ganesh Chaturthi shopping in Delhi.,2025-10-07T12:20:39Z,Delhi,Positive,Telegram,Festival
+910,Developers in Kochi are building amazing Cloud solutions.,2025-10-07T19:51:44Z,Kochi,Positive,Facebook,Culture
+911,Traffic jam near Andheri in Dehradun. #Infrastructure,2025-10-07T21:24:05Z,Dehradun,Positive,Reddit,Infrastructure
+912,@Swiggy's new feature update is excellent. #TechNews,2025-10-08T04:52:10Z,Mumbai,Positive,Twitter,Celebrity
+913,The restaurant scene in Dhanbad is awful.,2025-10-08T14:06:04Z,Dhanbad,Negative,Twitter,Food
+914,Road conditions in Electronic City are awful. #Srinagar,2025-10-08T18:05:09Z,Srinagar,Negative,WhatsApp,Infrastructure
+915,5G speed in Ahmedabad is finally fantastic! @Paytm,2025-10-08T20:55:14Z,Ahmedabad,Positive,Reddit,Real Estate
+916,Public services in Pune are superb.,2025-10-09T00:37:50Z,Pune,Positive,YouTube,Politics
+917,Cloud computing adoption in Aurangabad is outstanding.,2025-10-09T07:02:24Z,Aurangabad,Positive,Reddit,News
+918,The Data Science on @YouTube is awesome.,2025-10-09T07:03:32Z,Delhi,Positive,Reddit,Education
+919,Healthcare infrastructure in Jabalpur needs improvement.,2025-10-09T14:36:44Z,Jabalpur,Negative,Reddit,Healthcare
+920,India performance was great. #Badminton,2025-10-09T15:43:15Z,Mumbai,Positive,YouTube,Sports
+921,Raipur's specialty samosa is a must-try!,2025-10-09T17:01:54Z,Raipur,Negative,Twitter,Food
+922,Parking in Chennai is wonderful.,2025-10-09T22:27:28Z,Chennai,Positive,LinkedIn,Automotive
+923,5G speed in Ghaziabad is finally typical! @Apple,2025-10-10T00:59:25Z,Ghaziabad,Neutral,YouTube,Fashion
+924,The new Big Data update is normal! #Technology,2025-10-10T06:34:15Z,Agra,Neutral,Reddit,Celebrity
+925,Concert in Indore was regular! #Entertainment,2025-10-10T22:14:11Z,Indore,Neutral,Instagram,Entertainment
+926,@Netflix's courses are awful! #EdTech,2025-10-10T22:21:27Z,Lucknow,Negative,Instagram,Education
+927,Traditional Diwali celebrations in Delhi.,2025-10-11T03:24:09Z,Delhi,Neutral,LinkedIn,Festival
+928,Loan approval process at @PhonePe is standard.,2025-10-11T03:40:26Z,Bhubaneswar,Neutral,YouTube,Finance
+929,Test drove Nexon EV today. Performance is amazing!,2025-10-11T05:42:22Z,Coimbatore,Positive,Reddit,Automotive
+930,Air quality in Visakhapatnam is fantastic today. AQI: 178,2025-10-11T07:02:14Z,Visakhapatnam,Positive,LinkedIn,Environment
+931,Product quality from @Jio is wonderful.,2025-10-11T12:02:51Z,Kochi,Positive,WhatsApp,E-commerce
+932,@Tata launched new iPhone! Excited to try it. #Lifestyle,2025-10-12T04:05:56Z,Kochi,Negative,Instagram,Lifestyle
+933,@Amazon Prime's exam prep courses are amazing!,2025-10-12T06:02:44Z,Vadodara,Positive,LinkedIn,Education
+934,IPL match tonight in Mumbai! Excited! #IPL,2025-10-12T20:10:32Z,Mumbai,Neutral,YouTube,Sports
+935,@Paytm ride in Kochi was horrible. #RideSharing,2025-10-13T09:28:48Z,Kochi,Negative,Facebook,Transportation
+936,The new AI update is phenomenal! #Technology,2025-10-13T14:07:18Z,Ludhiana,Positive,WhatsApp,Lifestyle
+937,Just upgraded to Echo. Performance is standard!,2025-10-13T14:25:37Z,Meerut,Neutral,LinkedIn,Fashion
+938,Automotive industry in Jabalpur is pathetic.,2025-10-14T06:56:54Z,Jabalpur,Negative,Telegram,Automotive
+939,@Ola's new feature update is great. #TechNews,2025-10-14T08:21:45Z,Guwahati,Positive,YouTube,Fashion
+940,Just upgraded to iPad. Performance is regular!,2025-10-15T02:23:19Z,Ahmedabad,Neutral,LinkedIn,Real Estate
+941,@Hotstar's fitness tracking is decent!,2025-10-15T02:41:35Z,Aurangabad,Neutral,Facebook,Healthcare
+942,Amazon's AI features are unacceptable. #Celebrity,2025-10-15T05:33:50Z,Indore,Negative,Instagram,Celebrity
+943,Charity event in Bhopal was phenomenal!,2025-10-16T06:31:55Z,Bhopal,Positive,Instagram,Social
+944,The museum in Bengaluru is worst! Must visit. #Travel,2025-10-16T09:01:14Z,Bengaluru,Negative,Reddit,Tourism
+945,Cloud computing adoption in Varanasi is perfect.,2025-10-16T10:20:26Z,Varanasi,Positive,LinkedIn,Fashion
+946,Eid preparations in full swing in Agra.,2025-10-16T13:16:50Z,Agra,Positive,WhatsApp,Festival
+947,The new Big Data update is standard! #Technology,2025-10-16T13:47:43Z,Allahabad,Neutral,LinkedIn,Fashion
+948,Election campaign in Lucknow is in full swing. #Elections,2025-10-16T19:27:12Z,Lucknow,Positive,YouTube,Politics
+949,Vaccination drive in Madurai is average.,2025-10-17T06:52:12Z,Madurai,Neutral,YouTube,Healthcare
+950,Public services in Coimbatore are bad.,2025-10-17T09:54:20Z,Coimbatore,Negative,Twitter,Politics
+951,Social initiatives in Thiruvananthapuram are perfect.,2025-10-17T14:39:09Z,Thiruvananthapuram,Positive,WhatsApp,Social
+952,Infrastructure spending in Chennai is perfect.,2025-10-17T20:21:47Z,Chennai,Positive,Telegram,Politics
+953,Public transport in Gwalior needs improvement. #Infrastructure,2025-10-18T09:06:57Z,Gwalior,Positive,Instagram,Infrastructure
+954,Indian Accent in Varanasi serves phenomenal vada pav.,2025-10-18T12:49:07Z,Varanasi,Positive,Twitter,Food
+955,Test drove Model 3 today. Performance is terrible!,2025-10-18T15:19:37Z,Coimbatore,Negative,Facebook,Automotive
+956,@Reliance's new feature update is superb. #TechNews,2025-10-19T18:32:12Z,Aurangabad,Positive,WhatsApp,Celebrity
+957,Social initiatives in Chennai are unacceptable.,2025-10-19T21:34:03Z,Chennai,Negative,Instagram,Social
+958,Product quality from @Blinkit is fantastic.,2025-10-20T06:55:18Z,Mysuru,Positive,Telegram,E-commerce
+959,Climate action in Thiruvananthapuram is excellent.,2025-10-20T12:42:18Z,Thiruvananthapuram,Positive,Telegram,Environment
+960,Volunteer programs in Kota are horrible.,2025-10-20T21:10:02Z,Kota,Negative,Twitter,Social
+961,Attended Big Data conference in Meerut. disappointing experience!,2025-10-21T13:40:07Z,Meerut,Negative,Twitter,Fashion
+962,IPL match tonight in Allahabad! Excited! #IPL,2025-10-21T16:32:02Z,Allahabad,Positive,Instagram,Sports
+963,Auto rickshaw fares in Howrah are amazing.,2025-10-21T18:31:42Z,Howrah,Positive,YouTube,Transportation
+964,5G speed in Rajkot is finally wonderful! @Tata,2025-10-21T18:54:38Z,Rajkot,Positive,WhatsApp,Celebrity
+965,@Flipkart launched new Galaxy! Excited to try it. #Culture,2025-10-21T22:06:40Z,Rajkot,Positive,Twitter,Culture
+966,Janmashtami special events in Jabalpur are outstanding.,2025-10-22T03:45:35Z,Jabalpur,Positive,Twitter,Festival
+967,Garbage collection in Bandra is awesome. @MCD,2025-10-22T23:26:03Z,Thiruvananthapuram,Positive,Twitter,Infrastructure
+968,Sale on @Microsoft has standard deals! #Shopping,2025-10-23T05:35:38Z,Goa,Neutral,WhatsApp,E-commerce
+969,The architecture of Golden Temple is pathetic!,2025-10-23T14:16:52Z,Jaipur,Negative,Reddit,Tourism
+970,Digital education in Howrah is pathetic.,2025-10-23T23:55:59Z,Howrah,Negative,Facebook,Education
+971,Cloud computing adoption in Kota is outstanding.,2025-10-24T15:51:11Z,Kota,Positive,Facebook,Fashion
+972,Smart city project in Varanasi is regular.,2025-10-24T21:03:42Z,Varanasi,Neutral,Twitter,Politics
+973,IIT Ranchi campus is great! #Education,2025-10-24T22:49:51Z,Ranchi,Positive,Instagram,Education
+974,Last-mile connectivity in Ranchi needs improvement.,2025-10-24T23:38:17Z,Ranchi,Positive,YouTube,Transportation
+975,@Zomato's app interface is unacceptable.,2025-10-26T08:38:37Z,Allahabad,Negative,Twitter,E-commerce
+976,Attended AI conference in Bhopal. great experience!,2025-10-26T20:13:07Z,Bhopal,Positive,Reddit,Fashion
+977,Traffic congestion in Chennai is awesome.,2025-10-27T03:28:20Z,Chennai,Positive,Twitter,Automotive
+978,Google's AI features are okay. #Technology,2025-10-27T15:55:05Z,Kolkata,Neutral,Reddit,Technology
+979,Healthcare infrastructure in Agra needs improvement.,2025-10-28T12:21:48Z,Agra,Positive,Instagram,Healthcare
+980,Cloud computing adoption in Amritsar is phenomenal.,2025-10-28T13:47:56Z,Amritsar,Positive,YouTube,Fashion
+981,Metro services in Visakhapatnam are frustrating. @HyderabadMetro,2025-10-28T23:22:31Z,Visakhapatnam,Negative,WhatsApp,Infrastructure
+982,@Zomato launched new Pixel! Excited to try it. #News,2025-10-29T09:46:28Z,Vijayawada,Positive,LinkedIn,News
+983,Public services in Guwahati are regular.,2025-10-30T07:44:12Z,Guwahati,Neutral,LinkedIn,Politics
+984,Emergency services in Ahmedabad are brilliant.,2025-10-30T09:43:55Z,Ahmedabad,Positive,Instagram,Healthcare
+985,Trying local cuisine in Thane. Absolutely terrible!,2025-10-30T10:40:15Z,Thane,Negative,Instagram,Food
+986,@Reliance's payment app is fantastic! #Fintech,2025-10-30T21:46:09Z,Coimbatore,Positive,LinkedIn,Finance
+987,@Jio's service center in Ranchi is poor.,2025-10-30T23:17:21Z,Ranchi,Negative,WhatsApp,Automotive
+988,Monsoon arrives in Delhi! Relief from heat. #Monsoon,2025-10-31T05:53:43Z,Delhi,Positive,YouTube,Weather
+989,Online learning on @YouTube is regular.,2025-10-31T09:43:20Z,Raipur,Neutral,Telegram,Education
+990,Street celebrations for Ganesh Chaturthi in Faridabad are standard!,2025-10-31T11:12:33Z,Faridabad,Neutral,LinkedIn,Festival
+991,Traffic congestion in Agra is awesome.,2025-11-01T04:14:21Z,Agra,Positive,YouTube,Automotive
+992,5G speed in Thiruvananthapuram is finally great! @Zomato,2025-11-01T06:01:47Z,Thiruvananthapuram,Positive,YouTube,Celebrity
+993,Garbage collection in Koramangala is poor. @BengaluruMetro,2025-11-01T19:31:51Z,Indore,Negative,Instagram,Infrastructure
+994,Traffic jam near Gachibowli in Raipur. #Infrastructure,2025-11-02T04:49:25Z,Raipur,Negative,Instagram,Infrastructure
+995,Concert in Jabalpur was average! #Entertainment,2025-11-02T12:08:00Z,Jabalpur,Neutral,Facebook,Entertainment
+996,Eid special events in Kolkata are perfect.,2025-11-03T01:44:24Z,Kolkata,Positive,Facebook,Festival
+997,Attended Cybersecurity conference in Ahmedabad. awful experience!,2025-11-03T15:49:19Z,Ahmedabad,Negative,Twitter,Real Estate
+998,Climate action in Chennai is outstanding.,2025-11-04T04:51:33Z,Chennai,Positive,LinkedIn,Environment
+999,India performance was amazing. #Cricket,2025-11-04T06:13:18Z,Vijayawada,Positive,LinkedIn,Sports
+1000,@Blinkit's new feature update is awesome. #TechNews,2025-11-04T11:51:48Z,Jaipur,Positive,Twitter,Fashion
