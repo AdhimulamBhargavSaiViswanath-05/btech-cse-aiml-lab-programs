@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Functions</title>
+</head>
+<body>
+<script>
+    function factorial(n) {
+        let fact = 1;
+        for (let i = 2; i <= n; i++) fact *= i;
+        return fact;
+    }
+
+    function fibonacci(n) {
+        let fib = [0, 1];
+        for (let i = 2; i < n; i++)
+            fib[i] = fib[i - 1] + fib[i - 2];
+        return fib.slice(0, n);
+    }
+
+    function isPrime(n) {
+        if (n < 2) return false;
+        for (let i = 2; i <= Math.sqrt(n); i++)
+            if (n % i === 0) return false;
+        return true;
+    }
+
+    function primeUpTo(n) {
+        let primes = [];
+        for (let i = 2; i <= n; i++) {
+            if (isPrime(i)) primes.push(i);
+        }
+        return primes;
+    }
+
+    function isPalindrome(n) {
+        let str = n.toString();
+        return str === str.split('').reverse().join('');
+    }
+
+    // Example usage:
+    let num = parseInt(prompt("Enter a number:"));
+
+    document.write("Factorial: " + factorial(num) + "<br>");
+    document.write("Fibonacci: " + fibonacci(num) + "<br>");
+    document.write("Primes: " + primeUpTo(num) + "<br>");
+    document.write("Palindrome: " + (isPalindrome(num) ? "Yes" : "No") + "<br>");
+</script>
+</body>
+</html>

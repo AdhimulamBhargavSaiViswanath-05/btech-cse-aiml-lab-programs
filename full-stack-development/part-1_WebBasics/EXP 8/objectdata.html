@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Object Looping</title></head>
+<body>
+<script>
+    let person = { name: "Bhargav", age: 20, city: "Guntur" };
+
+    document.write("<b>For-in Loop:</b><br>");
+    for (let key in person) {
+        document.write(key + ": " + person[key] + "<br>");
+    }
+
+    let hobbies = ["Reading", "Coding", "Travel"];
+    document.write("<br><b>ForEach Loop:</b><br>");
+    hobbies.forEach(function(hobby) {
+        document.write(hobby + "<br>");
+    });
+
+    document.write("<br><b>For-of Loop:</b><br>");
+    for (let hobby of hobbies) {
+        document.write(hobby + "<br>");
+    }
+</script>
+</body>
+</html>

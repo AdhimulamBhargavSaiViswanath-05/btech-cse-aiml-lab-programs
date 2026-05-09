@@ -1,0 +1,25 @@
+/* Simple Selectors */
+h1 { color: blue; }  /* Element Selector */
+#unique { color: green; font-weight: bold; } /* ID Selector */
+.simple { color: red; font-style: italic; } /* Class Selector */
+* { margin: 0; padding: 0; box-sizing: border-box; } /* Universal Selector */
+h1, h2, p { font-family: Arial, sans-serif; } /* Group Selector */
+
+/* Combinator Selectors */
+.parent p { color: purple; } /* Descendant Selector */
+.parent > .child p { color: orange; font-weight: bold; } /* Child Selector */
+.adjacent + .sibling { color: brown; font-style: italic; } /* Adjacent Sibling */
+.adjacent ~ .sibling { text-decoration: underline; } /* General Sibling */
+
+/* Pseudo-Class Selectors */
+.hover-btn:hover { background-color: yellow; } /* Hover */
+.focus-input:focus { border: 2px solid blue; } /* Focus */
+.nth-child:nth-child(2) { color: magenta; font-weight: bold; } /* Nth Child */
+
+/* Pseudo-Element Selectors */
+.first-letter::first-letter { font-size: 2em; color: crimson; } /* First Letter */
+.first-line::first-line { font-weight: bold; color: darkblue; } /* First Line */
+
+/* Attribute Selectors */
+a[target="_blank"] { color: green; font-weight: bold; } /* Target Attribute */
+input[type="email"] { border: 2px dashed red; } /* Type Attribute */

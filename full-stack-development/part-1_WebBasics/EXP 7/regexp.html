@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>RegEx Example</title></head>
+<body>
+  <script>
+    let str = "My email is test@example.com";
+    let pattern = /\w+@\w+\.\w+/;
+    let result = str.match(pattern);
+    document.write("Matched Email: " + result);
+  </script>
+</body>
+</html>

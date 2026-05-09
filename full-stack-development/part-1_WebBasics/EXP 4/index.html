@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selector Forms</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 id="main-heading">CSS Selector Forms</h1>
+
+    <p class="intro">This is an introduction paragraph with a class selector.</p>
+
+    <div class="container">
+        <h2>Simple Selectors</h2>
+        <p class="simple">This paragraph uses a class selector.</p>
+        <p id="unique">This paragraph uses an ID selector.</p>
+        <span>This is a span element.</span>
+    </div>
+
+    <div class="combinators">
+        <h2>Combinator Selectors</h2>
+        <div class="parent">
+            <p>Descendant Selector (inside parent)</p>
+            <div class="child">
+                <p>Child Selector (direct child)</p>
+            </div>
+        </div>
+        <p class="adjacent">Adjacent sibling selector</p>
+        <p class="sibling">General sibling selector</p>
+    </div>
+
+    <div class="pseudo-class">
+        <h2>Pseudo-Class Selectors</h2>
+        <button class="hover-btn">Hover over me</button>
+        <input type="text" class="focus-input" placeholder="Click here">
+        <p class="nth-child">First Child</p>
+        <p class="nth-child">Second Child</p>
+    </div>
+
+    <div class="pseudo-element">
+        <h2>Pseudo-Element Selectors</h2>
+        <p class="first-letter">This paragraph has a styled first letter.</p>
+        <p class="first-line">This paragraph has a styled first line.</p>
+    </div>
+
+    <div class="attribute-selector">
+        <h2>Attribute Selectors</h2>
+        <a href="https://www.example.com" target="_blank">External Link</a>
+        <input type="text" placeholder="Enter text">
+        <input type="email" placeholder="Enter email">
+    </div>
+
+</body>
+</html>

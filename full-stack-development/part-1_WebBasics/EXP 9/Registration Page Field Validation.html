@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Validation</title>
+    <script>
+        function validateForm() {
+            let name = document.getElementById("name").value;
+            let mobile = document.getElementById("mobile").value;
+            let email = document.getElementById("email").value;
+
+            let nameRegex = /^[A-Za-z][A-Za-z0-9]{5,}$/;
+            let mobileRegex = /^\d{10}$/;
+            let emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            if (!nameRegex.test(name)) {
+                alert("Invalid Name: Must start with a letter and be at least 6 characters.");
+                return false;
+            }
+            if (!mobileRegex.test(mobile)) {
+                alert("Invalid Mobile: Must be exactly 10 digits.");
+                return false;
+            }
+            if (!emailRegex.test(email)) {
+                alert("Invalid Email: Format should be x@x.x");
+                return false;
+            }
+
+            alert("Registration Successful!");
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    <form onsubmit="return validateForm()">
+        Name: <input type="text" id="name" required><br><br>
+        Mobile: <input type="text" id="mobile" required><br><br>
+        Email: <input type="text" id="email" required><br><br>
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>

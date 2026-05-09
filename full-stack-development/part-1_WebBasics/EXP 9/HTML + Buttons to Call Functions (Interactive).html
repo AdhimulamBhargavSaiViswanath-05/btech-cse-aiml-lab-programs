@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Function Events</title>
+    <script>
+        function factorial(n) {
+            let fact = 1;
+            for (let i = 2; i <= n; i++) fact *= i;
+            document.getElementById("result").innerHTML = "Factorial: " + fact;
+        }
+
+        function fibonacci(n) {
+            let fib = [0, 1];
+            for (let i = 2; i < n; i++)
+                fib[i] = fib[i - 1] + fib[i - 2];
+            document.getElementById("result").innerHTML = "Fibonacci: " + fib.slice(0, n);
+        }
+
+        function isPrime(n) {
+            if (n < 2) return false;
+            for (let i = 2; i <= Math.sqrt(n); i++)
+                if (n % i === 0) return false;
+            return true;
+        }
+
+        function primeUpTo(n) {
+            let primes = [];
+            for (let i = 2; i <= n; i++) {
+                if (isPrime(i)) primes.push(i);
+            }
+            document.getElementById("result").innerHTML = "Primes: " + primes;
+        }
+
+        function palindrome(n) {
+            let str = n.toString();
+            let result = (str === str.split('').reverse().join('')) ? "Palindrome" : "Not Palindrome";
+            document.getElementById("result").innerHTML = result;
+        }
+    </script>
+</head>
+<body>
+    <h3>Enter a Number</h3>
+    <input type="number" id="num">
+    <br><br>
+    <button onclick="factorial(parseInt(num.value))">Factorial</button>
+    <button onclick="fibonacci(parseInt(num.value))">Fibonacci</button>
+    <button onclick="primeUpTo(parseInt(num.value))">Prime</button>
+    <button onclick="palindrome(parseInt(num.value))">Palindrome</button>
+    <p id="result"></p>
+</body>
+</html>
